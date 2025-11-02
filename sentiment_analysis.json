@@ -1,0 +1,244 @@
+{
+  "analyzed_at": "2025-11-02T16:57:47.641309",
+  "models_used": [
+    "TextBlob",
+    "VADER",
+    "Transformers (DistilBERT)"
+  ],
+  "original_metadata": {
+    "parsed_at": "2025-11-02T15:21:14.782479",
+    "keywords_searched": [
+      "transnistria",
+      "Trans-Dniester"
+    ],
+    "words_before": 40,
+    "words_after": 40
+  },
+  "total_articles": 4,
+  "articles": [
+    {
+      "title": "Moldova's Trans-Dniester region pleads to join Russia",
+      "url": "https://www.bbc.com/news/world-europe-26627236",
+      "scraped_at": "2025-11-02T15:01:32.561955",
+      "keyword_counts": {
+        "transnistria": 0,
+        "Trans-Dniester": 7
+      },
+      "total_mentions": 7,
+      "contexts": [
+        {
+          "context": "A sign in Trans-Dniester reminds people We are not Moldova Pro-Russian politicians and activists in Moldova s breakaway Trans-Dniester region have asked the Russian parliament to draft a law that would allow their territory to join Russia The Trans-Dniestrian appeal comes as Moscow moves towards absorbing Crimea into the Russian Federation Ukraine the EU and US say that move is illegal Russian loyalists dominate Trans-Dniester with support from Moscow The region split from Moldova in a war in 1991-92 as the USSR was collapsing Moldova s President Nicolae Timofti said in a news briefing on Tuesday that any decision by Moscow to accept Trans-Dniester would be a step in the wrong direction In a September 2006 referendum unrecognised by Moldova and the international community the region reasserted its demand for independence Irina Kubanskikh spokeswoman for the Trans-Dniester parliament told Itar-Tass news agency that the region s public bodies had appealed to the Russian Federation leadership to examine the possibility of extending to Trans-Dniester the legislation currently under discussion in the State Duma on granting Russian citizenship and admitting new subjects into Russia A pro-Kremlin party A Just Russia has drafted legislation to make it easier for new territories to join Russia The party",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": -0.040559440559440565,
+              "subjectivity": 0.2865967365967366,
+              "classification": "negative"
+            },
+            "vader": {
+              "compound": 0.7506,
+              "positive": 0.107,
+              "neutral": 0.824,
+              "negative": 0.07,
+              "classification": "positive"
+            },
+            "transformer": {
+              "label": "NEGATIVE",
+              "score": 0.9943026304244995,
+              "classification": "negative"
+            }
+          }
+        },
+        {
+          "context": "was now being revised in order not to delay the rapid accession of Crimea to Russia The Duma Russia s lower house and the Federation Council upper house are dominated by supporters of President Vladimir Putin Vedomosti reports that the Trans-Dniester appeal to Russia also warns about a possible further deterioration if Moldova signs an association agreement with the EU Moldova s leaders plan to do so The crisis in neighbouring Ukraine erupted after former President Viktor Yanukovych was expected and",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": -0.02,
+              "subjectivity": 0.38,
+              "classification": "negative"
+            },
+            "vader": {
+              "compound": 0.0216,
+              "positive": 0.089,
+              "neutral": 0.824,
+              "negative": 0.088,
+              "classification": "neutral"
+            },
+            "transformer": {
+              "label": "NEGATIVE",
+              "score": 0.989959180355072,
+              "classification": "negative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "The country that doesn’t exist",
+      "url": "https://www.bbc.com/travel/article/20131212-bribery-and-brandy-in-a-country-that-doesnt-exist",
+      "scraped_at": "2025-11-02T15:01:32.871591",
+      "keyword_counts": {
+        "transnistria": 20,
+        "Trans-Dniester": 0
+      },
+      "total_mentions": 20,
+      "contexts": [
+        {
+          "context": "No other nation recognises Transnistria as a country but within the sliver of land sandwiched between Moldova and Ukraine the opinion of the UN doesn t matter The last train out of the country was leaving in 10 minutes and I was sitting in a room no bigger than a prison cell across from a border guard who held our passports hostage awaiting his bribe No other nation acknowledges Transnistria as a country but at this moment the opinion of the UN and the world s cartographers only mattered on paper There in that room sitting across from a man with the power to detain me I wasn t concerned with documentation My definition of a country became simple border controls armies and governments all of which Transnistria has under its red-and-green flag bearing a gold sickle and hammer The only paper I was concerned with was cash even though Transnistria s currency is about as useful as Monopoly money anywhere else on Earth Here on this sliver of land sandwiched between Moldova and Ukraine officially known as a breakaway state within Moldova 550 Transnistrian rubles was worth about 50 And that s how much we had to bribe the guard to let us board the train departing Transnistria s capital Tiraspol After the transaction the only local currency I had left was a five ruble note a Transnistrian keepsake that I would keep indefinitely My other two souvenirs a body covered in flea bites and three bottles of",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": 0.05714285714285715,
+              "subjectivity": 0.3820578231292517,
+              "classification": "positive"
+            },
+            "vader": {
+              "compound": -0.9081,
+              "positive": 0.028,
+              "neutral": 0.898,
+              "negative": 0.074,
+              "classification": "negative"
+            },
+            "transformer": {
+              "label": "NEGATIVE",
+              "score": 0.9988075494766235,
+              "classification": "negative"
+            }
+          }
+        },
+        {
+          "context": "Cognac France KVINT differentiates its rich brandy by using the Moldovan word for the drink divin Still most people I met simply referred to it as cognac which isn t surprising in a place that never seemed big on rules Transnistria s history is short and contentious The name first referred to a region born in WWII that included southern Ukraine and its capital at the time Odessa The much smaller ethnically Russian territory now known as Transnistria declared independence in 1992 after the fall of the Soviet Union through a bloody four-month war with Romanian-speaking Moldova which still lays claim to the area But while most people in this Russian-speaking land have Moldovan passports a 2006 vote in which 97 of the population voted for independence with free association to Russia illustrates their true allegiance Its murky past coupled with strong accusations of KGB government presence and a bustling illegal arms trade doesn t give Transnistria a lot to be proud of Other than a state-of-the-art professional football stadium the one thing Transnistrians can brag about is their brandy The quality of this fine spirit starts with the grapes and Transnistria benefits from its proximity to the Black Sea and Dniester River from which it gets its name Combined with a moderate continental climate and rich soil the territory is perfect for growing a large number of grape varieties KVINT uses",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": 0.17586996336996336,
+              "subjectivity": 0.498489010989011,
+              "classification": "positive"
+            },
+            "vader": {
+              "compound": 0.982,
+              "positive": 0.156,
+              "neutral": 0.793,
+              "negative": 0.051,
+              "classification": "positive"
+            },
+            "transformer": {
+              "label": "POSITIVE",
+              "score": 0.879874587059021,
+              "classification": "positive"
+            }
+          }
+        },
+        {
+          "context": "the 50-year Prince Wittgenstein KVINT produces about 3 5 million litres of divin each year which is enough to have stores all over Tiraspol selling exclusively KVINT products Its reported 30 million euro revenue in 2012 is about 4 of Transnistria s GDP according tostatistics from the Centre for Eastern Studies This 1bn GDP would make Transnistria the poorest country in Europe But according to Timoti Ohotcii owner ofTiraspol Hostel a rundown house with sulphur-water showers and flea-ridden partially reclining chairs for beds Tiraspol is far from poor it just runs things a little differently The money that flows through Transnistria is off the books he said which is believable considering cash Transnistrian rubles or on rare occasion American dollars or Russian rubles are generally the only form of accepted payment Of course in addition to the off-the-books economy is Transnistria s notoriety for being acesspool of corruption organised crime illegal arms sales human trafficking and money laundering At the centre of that corruption reportedly isSheriff a conglomerate started by two ex-KGB agents which holds the reins on Transnistria s entire economy owning petrol stations a television channel a mobile phone network supermarkets a car dealership andFC Sheriff Tiraspol the football club that plays in one of Europe s finest stadiums a shiny extremely expensive testament to the country s greatness Sheriff also happened to purchase KVINT in 2006 which had been state-owned for most of its 116-year history It s the oligopolous result of Transnistria s slow-moving transition from communism to capitalism or what Ohotcii liked to call old-west capitalism In his hostel advertisements Ohotcii who was a reasonably knowledgeable tour guide if not the greatest hostel owner promotes Transnistria as the last remnants of the Soviet Union and in some ways it still is While every other country in the former USSR demolished many remnants of their Soviet past Transnistria still clings to what they see as the good old days Soviet monuments still stand guard throughout Tiraspol and the city holds a Soviet-style military parade on their Independence Day 2 September It is the only post-Soviet land to wave the hammer and sickle on its flag and a large bust of an austere Lenin stands in front of Transnistria s parliament building illustrating that the formation of this quasi nation was as much about ensuring the communistic future rejected by the rest of the USSR as it was about the right to keep Russian over Romanian as its national",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": 0.08107142857142859,
+              "subjectivity": 0.4525510204081632,
+              "classification": "positive"
+            },
+            "vader": {
+              "compound": -0.8625,
+              "positive": 0.042,
+              "neutral": 0.902,
+              "negative": 0.056,
+              "classification": "negative"
+            },
+            "transformer": {
+              "label": "NEGATIVE",
+              "score": 0.9962714910507202,
+              "classification": "negative"
+            }
+          }
+        },
+        {
+          "context": "comprehensive training programme to ensure that they are aware of the UK Bribery Act and the issues that it raises Although the tone of this article is relatively light-hearted with the bulk of the piece focusing on the culture behind Transnistria s award-winning brandy the individuals concerned were locked in a room and had their passports taken away during the reporting process compromising their safety and putting them in a situation of duress a situation recognized by organisations such as Transparency International Considering Transnistria s disputed history BBC Travel editors felt it would paint an inaccurate picture if the encounter were left out",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": 0.05833333333333333,
+              "subjectivity": 0.4083333333333334,
+              "classification": "positive"
+            },
+            "vader": {
+              "compound": 0.6124,
+              "positive": 0.068,
+              "neutral": 0.91,
+              "negative": 0.022,
+              "classification": "positive"
+            },
+            "transformer": {
+              "label": "POSITIVE",
+              "score": 0.8645192980766296,
+              "classification": "positive"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova election: Pro-EU parties edge pro-Russian rivals",
+      "url": "https://www.bbc.com/news/world-europe-30265985",
+      "scraped_at": "2025-11-02T15:01:33.140563",
+      "keyword_counts": {
+        "transnistria": 0,
+        "Trans-Dniester": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "Ukraine have signed far-reaching partnership agreements with the EU bitterly opposed by Russia On the eve of the vote one pro-Russian party was banned from Sunday s poll a move criticised by Russia Residents of the Russian-backed breakaway region of Trans-Dniester did not take part in the election Analysis by Nick Thorpe BBC Central Europe correspondent The three pro-EU parties will have a big enough majority to form a government But those aspirations have been dented by the strong showing of",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": 0.06666666666666668,
+              "subjectivity": 0.4166666666666667,
+              "classification": "positive"
+            },
+            "vader": {
+              "compound": 0.5859,
+              "positive": 0.108,
+              "neutral": 0.826,
+              "negative": 0.066,
+              "classification": "positive"
+            },
+            "transformer": {
+              "label": "NEGATIVE",
+              "score": 0.9945809245109558,
+              "classification": "negative"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "title": "The plight of Moldova's orphanage children",
+      "url": "https://www.bbc.com/news/world-europe-29204924",
+      "scraped_at": "2025-11-02T15:01:33.378194",
+      "keyword_counts": {
+        "transnistria": 0,
+        "Trans-Dniester": 3
+      },
+      "total_mentions": 3,
+      "contexts": [
+        {
+          "context": "There is also the stigma of disability A three-year-old I visited who has been helped into a foster family was abandoned simply because he was born without an arm The situation is even harder in the breakaway eastern region of Trans-Dniester which is technically part of Moldova but sees itself as a separate country Trans-Dniester has an attitude for independence and has strong connections with former Soviet countries says Dr Pop This gives aid workers additional challenges in encouraging co-operation to get children out of institutions and back with their families Visiting the region is like going back in time The region of Trans-Dniester lies on the Ukrainian border and considers itself independent Placing children in such institutions is simply firefighting an ever-expanding complex social problem rather than offering a long-term solution for the many children within their walls says children-in-care specialist Sarah Butterworth",
+          "sentiment_analysis": {
+            "textblob": {
+              "polarity": 0.04358974358974359,
+              "subjectivity": 0.2414835164835165,
+              "classification": "positive"
+            },
+            "vader": {
+              "compound": 0.8151,
+              "positive": 0.103,
+              "neutral": 0.84,
+              "negative": 0.057,
+              "classification": "positive"
+            },
+            "transformer": {
+              "label": "NEGATIVE",
+              "score": 0.8471094369888306,
+              "classification": "negative"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
