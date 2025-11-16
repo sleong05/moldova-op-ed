@@ -1,0 +1,303 @@
+======================================================================
+SENTIMENT ANALYSIS WITH FINBERT
+======================================================================
+
+Loading parsed articles...
+
+Initializing FinBERT model...
+Loading FinBERT (financial news model)...
+✓ FinBERT loaded successfully
+
+Analyzing sentiment for 40 articles...
+
+[1/40] Processing: What Moldova's twin vote means for its EU future and Russia's grip
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[2/40] Processing: None
+  Found 6 context(s)
+  Context 1/6:
+  Analyzing context (length: 51 words)...
+  Context 2/6:
+  Analyzing context (length: 116 words)...
+  Context 3/6:
+  Analyzing context (length: 179 words)...
+  Context 4/6:
+  Analyzing context (length: 199 words)...
+  Context 5/6:
+  Analyzing context (length: 126 words)...
+  Context 6/6:
+  Analyzing context (length: 178 words)...
+
+[3/40] Processing: None
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[4/40] Processing: Moldovan president warns of 'harsh winter' in inauguration speech
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 156 words)...
+
+[5/40] Processing: Russia says it will protect its citizens in Moldova's Transnistria
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 76 words)...
+  Context 2/3:
+  Analyzing context (length: 228 words)...
+  Context 3/3:
+  Analyzing context (length: 95 words)...
+
+[6/40] Processing: Slovakia leads effort for continued Ukraine gas transit as EU stays out of talks
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 164 words)...
+
+[7/40] Processing: Moldova declares state of emergency as risk of Russian gas cutoff looms
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 56 words)...
+  Context 2/2:
+  Analyzing context (length: 273 words)...
+
+[8/40] Processing: Moldovan separatists complain to EU about central government
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 127 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[9/40] Processing: US sanctions pro-Russia governor of Moldova's Gagauzia region
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 61 words)...
+
+[10/40] Processing: Blinken vows support for Moldova against Russia 'bullying'
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[11/40] Processing: Moldovan Parliament backs bid to join EU, but divisions remain
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 118 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[12/40] Processing: Moldova expels Russian diplomat over Transnistria polling stations
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 125 words)...
+  Context 2/3:
+  Analyzing context (length: 81 words)...
+  Context 3/3:
+  Analyzing context (length: 54 words)...
+
+[13/40] Processing: Moldovan president launches campaign to promote EU referendum
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[14/40] Processing: Moldova says Russia illegally printed election ballots in Transnistria
+  Found 4 context(s)
+  Context 1/4:
+  Analyzing context (length: 98 words)...
+  Context 2/4:
+  Analyzing context (length: 81 words)...
+  Context 3/4:
+  Analyzing context (length: 81 words)...
+  Context 4/4:
+  Analyzing context (length: 104 words)...
+
+[15/40] Processing: Moldova spy chief warns on new destabilisation attempts by Russia
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 67 words)...
+
+[16/40] Processing: Moldova dismisses Transnistria's request for Russian help
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 82 words)...
+  Context 2/3:
+  Analyzing context (length: 81 words)...
+  Context 3/3:
+  Analyzing context (length: 149 words)...
+
+[17/40] Processing: Moldova says customs talks with Transnistria separatists 'difficult'
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 298 words)...
+  Context 2/2:
+  Analyzing context (length: 153 words)...
+
+[18/40] Processing: Transnistria appeals to Russia for ‘protection’, reviving fears for Moldova breakaway region
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 160 words)...
+  Context 2/3:
+  Analyzing context (length: 156 words)...
+  Context 3/3:
+  Analyzing context (length: 81 words)...
+
+[19/40] Processing: ‘Russia’s dirty money will hijack our democratic process’: how tiny Moldova fears Kremlin is fixing EU referendum
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[20/40] Processing: ‘It’s better not to try our luck again’: how Russia’s wars left deep scars in Georgia and Moldova
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 112 words)...
+
+[21/40] Processing: Russia-Ukraine war at a glance: what we know on day 736
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 56 words)...
+  Context 2/2:
+  Analyzing context (length: 117 words)...
+
+[22/40] Processing: How Moldovans bravely fought off Russian election meddling – and stood up for democracy
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[23/40] Processing: Russia's Gazprom says it will stop supplying Moldova with gas next week
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[24/40] Processing: Maia Sandu sworn in for second term as Moldova's president amid EU hopes
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[25/40] Processing: Moldova declares an energy emergency over fears of Russian gas cut-off
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[26/40] Processing: In Moldova's path towards the EU, political prisoners in Transnistria face challenges
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[27/40] Processing: US set to sanction Serbia’s main oil company over Russian ownership, Vučić says
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[28/40] Processing: Moldova’s pro-EU president on course for reelection
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[29/40] Processing: Moldovans head to polls in major test for EU future
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[30/40] Processing: Unquiet on the Eastern front: Why Brussels is losing to Moscow
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[31/40] Processing: Deciding Moldova’s European future
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 151 words)...
+
+[32/40] Processing: Moldova faces ‘existential’ EU vote in face of Russian interference
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[33/40] Processing: Russia meddling in Moldova elections, Western allies allege
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[34/40] Processing: Moldova fights to free itself from Russia’s AI-powered disinformation machine
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[35/40] Processing: Moldova to allow billionaire’s pro-Kremlin party to field candidates in elections
+
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 93 words)...
+
+[36/40] Processing: Moldova turns to France in face of threats from Putin
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[37/40] Processing: Moldova turns to France in face of threats from Putin
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[38/40] Processing: Putin vowed to protect pro-Russia Moldovan region, its leader says
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 86 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[39/40] Processing: Moldova dismisses idea that Putin could order Russian invasion
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 81 words)...
+  Context 2/3:
+  Analyzing context (length: 122 words)...
+  Context 3/3:
+  Analyzing context (length: 157 words)...
+
+[40/40] Processing: Transnistria begs Putin to ‘protect’ it against Moldova
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 336 words)...
+
+✓ Saved sentiment analysis to jsons/sentiment_analysis.json
+
+======================================================================
+FINBERT SENTIMENT ANALYSIS SUMMARY
+======================================================================
+Total contexts analyzed: 74
+
+Classification Distribution:
+  Positive: 8 (10.8%)
+  Neutral:  24 (32.4%)
+  Negative: 42 (56.8%)
+
+Sentiment Scores:
+  Average score: -0.375
+  Score range: [-0.942, 0.886]
+  Standard deviation: 0.534
+
+Average Probabilities:
+  Positive: 0.161
+  Negative: 0.536
+  Neutral:  0.303
+======================================================================
