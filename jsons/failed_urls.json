@@ -1,30 +1,30 @@
 {
   "total_failed": 6,
-  "scraped_at": "2025-11-16T03:29:35.199964",
+  "scraped_at": "2025-11-16T03:52:07.148321",
   "failed_urls": [
     {
       "url": "https://www.eureporter.co/world/2024/08/27/who-is-afraid-of-the-accession-of-the-republic-of-moldova-to-the-eu-fake-news-that-waves-the-scarecrow-of-separatism-in-transnistria-and-gagauzia/",
-      "failed_at": "2025-11-16T03:29:08.385057"
+      "failed_at": "2025-11-16T03:51:49.100954"
     },
     {
       "url": "https://www.eureporter.co/world/moldova/2024/05/14/shifting-energy-dynamics-moldovas-drive-towards-independence-amidst-russias-influence-2/",
-      "failed_at": "2025-11-16T03:29:08.476261"
+      "failed_at": "2025-11-16T03:51:49.203738"
     },
     {
       "url": "https://www.eureporter.co/world/moldova/2024/08/21/moldovas-energy-crisis-how-ukraines-offensive-and-binzari-questionable-decisions-are-pushing-chisinau-to-the-edge/",
-      "failed_at": "2025-11-16T03:29:08.571499"
+      "failed_at": "2025-11-16T03:51:49.300889"
     },
     {
       "url": "https://www.eureporter.co/world/republic-of-moldova/2024/10/20/moldovan-diaspora-in-eu-shows-little-interest-in-crucial-presidential-election-and-referendum/",
-      "failed_at": "2025-11-16T03:29:08.655228"
+      "failed_at": "2025-11-16T03:51:49.389343"
     },
     {
       "url": "https://www.eureporter.co/environment/2024/10/01/cop29-azerbaijan-supports-global-peace/",
-      "failed_at": "2025-11-16T03:29:08.749196"
+      "failed_at": "2025-11-16T03:51:49.482050"
     },
     {
       "url": "https://www.politico.eu/article/central-european-energy-firms-push-for-extension-on-russian-gas-transit-deal/?reg-wall=true",
-      "failed_at": "2025-11-16T03:29:25.525839"
+      "failed_at": "2025-11-16T03:52:05.470524"
     }
   ]
 }

@@ -1,17 +1,17 @@
 {
-  "parsed_at": "2025-11-16T03:41:54.905784",
+  "parsed_at": "2025-11-16T04:00:16.034440",
   "keywords_searched": [
     "Trans-Dniester",
     "Transnistria"
   ],
   "words_before": 40,
   "words_after": 40,
-  "total_articles_with_keywords": 40,
+  "total_articles_with_keywords": 39,
   "articles": [
     {
       "title": "What Moldova's twin vote means for its EU future and Russia's grip",
       "url": "https://www.euractiv.com/news/what-moldovas-twin-vote-means-for-its-eu-future-and-russias-grip/",
-      "scraped_at": "2025-11-16T03:29:06.730369",
+      "scraped_at": "2025-11-16T03:51:48.689826",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -24,18 +24,15 @@
       ]
     },
     {
-      "title": null,
+      "title": "Moldova eyes energy lever to topple Kremlin puppet regime in Transnistria",
       "url": "https://www.politico.eu/article/moldova-eye-energy-lever-topple-kremlin-puppet-regime-transnistria/",
-      "scraped_at": "2025-11-16T03:29:07.659261",
+      "scraped_at": "2025-11-16T03:51:48.869523",
       "keyword_counts": {
         "Trans-Dniester": 0,
-        "Transnistria": 17
+        "Transnistria": 16
       },
-      "total_mentions": 17,
+      "total_mentions": 16,
       "contexts": [
-        {
-          "context": "Moldova eyes energy lever to topple Kremlin puppet regime in Transnistria For the first time Moldova can cut an energy link to its breakaway territory Yet doing so risks Moscow s threats and a possible humanitarian crisis Copy Link Free article usually reserved for subscribers MOLDOVA-INDUSTRY-ENERGY Brussels has offered Moldova millions"
-        },
         {
           "context": "out of the country But it comes with a quandary how to do that without unleashing a humanitarian crisis on its own citizens Since gaining independence in the 1990s Moldova has been locked in a frozen conflict with Moscow over Transnistria a Kremlin-backed separatist region near Moldova s eastern border with over a quarter of a million people The face-off has been tense but maintained by a powerful connection Moldova gets cut-rate Russian energy via Transnistria which gets hundreds of millions of euros a year in return The link allowed Russia to preserve control over the strategic strip of land along the Ukrainian border where its troops are stationed despite Moldova s objections That dynamic is"
         },
@@ -54,9 +51,9 @@
       ]
     },
     {
-      "title": null,
+      "title": "Moldova strips general of rank and medals over Russian spying allegations",
       "url": "https://www.politico.eu/article/moldovan-general-accused-of-treason-over-russian-spy-allegations/",
-      "scraped_at": "2025-11-16T03:29:08.272716",
+      "scraped_at": "2025-11-16T03:51:48.992145",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -71,7 +68,7 @@
     {
       "title": "Moldovan president warns of 'harsh winter' in inauguration speech",
       "url": "https://www.euractiv.com/news/moldovan-president-warns-of-harsh-winter-in-inauguration-speech/",
-      "scraped_at": "2025-11-16T03:29:09.658772",
+      "scraped_at": "2025-11-16T03:51:50.263303",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 3
@@ -89,7 +86,7 @@
     {
       "title": "Russia says it will protect its citizens in Moldova's Transnistria",
       "url": "https://www.euractiv.com/news/russia-says-it-will-protect-its-citizens-in-moldovas-transdniestria/",
-      "scraped_at": "2025-11-16T03:29:10.571505",
+      "scraped_at": "2025-11-16T03:51:51.206863",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 8
@@ -110,7 +107,7 @@
     {
       "title": "Slovakia leads effort for continued Ukraine gas transit as EU stays out of talks",
       "url": "https://www.euractiv.com/news/slovakia-leads-effort-for-continued-ukraine-gas-transit-as-eu-stays-out-of-talks/",
-      "scraped_at": "2025-11-16T03:29:11.362302",
+      "scraped_at": "2025-11-16T03:51:51.935693",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 4
@@ -125,7 +122,7 @@
     {
       "title": "Moldova declares state of emergency as risk of Russian gas cutoff looms",
       "url": "https://www.euractiv.com/news/moldova-declares-state-of-emergency-as-risk-of-russian-gas-cutoff-looms/",
-      "scraped_at": "2025-11-16T03:29:14.661208",
+      "scraped_at": "2025-11-16T03:51:52.767720",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 7
@@ -143,7 +140,7 @@
     {
       "title": "Moldovan separatists complain to EU about central government",
       "url": "https://www.euractiv.com/news/moldovan-separatists-complain-to-eu-about-central-government/",
-      "scraped_at": "2025-11-16T03:29:15.313851",
+      "scraped_at": "2025-11-16T03:51:53.733147",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 4
@@ -161,7 +158,7 @@
     {
       "title": "US sanctions pro-Russia governor of Moldova's Gagauzia region",
       "url": "https://www.euractiv.com/news/us-sanctions-pro-russia-governor-of-moldovas-gagauzia-region/",
-      "scraped_at": "2025-11-16T03:29:16.106454",
+      "scraped_at": "2025-11-16T03:51:57.214112",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -176,7 +173,7 @@
     {
       "title": "Blinken vows support for Moldova against Russia 'bullying'",
       "url": "https://www.euractiv.com/news/blinken-vows-support-for-moldova-against-russia-bullying/",
-      "scraped_at": "2025-11-16T03:29:17.025873",
+      "scraped_at": "2025-11-16T03:51:58.106410",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -194,7 +191,7 @@
     {
       "title": "Moldovan Parliament backs bid to join EU, but divisions remain",
       "url": "http://euractiv.com/news/moldovan-parliament-backs-bid-to-join-eu-but-divisions-remain/",
-      "scraped_at": "2025-11-16T03:29:18.536017",
+      "scraped_at": "2025-11-16T03:51:59.699932",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 3
@@ -212,7 +209,7 @@
     {
       "title": "Moldova expels Russian diplomat over Transnistria polling stations",
       "url": "https://www.euractiv.com/news/moldova-expels-russian-diplomat-over-transnistria-polling-stations/",
-      "scraped_at": "2025-11-16T03:29:19.386242",
+      "scraped_at": "2025-11-16T03:52:00.397340",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 5
@@ -233,7 +230,7 @@
     {
       "title": "Moldovan president launches campaign to promote EU referendum",
       "url": "https://www.euractiv.com/news/moldovan-president-launches-campaign-to-promote-eu-referendum/",
-      "scraped_at": "2025-11-16T03:29:20.118599",
+      "scraped_at": "2025-11-16T03:52:01.102155",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -248,7 +245,7 @@
     {
       "title": "Moldova says Russia illegally printed election ballots in Transnistria",
       "url": "https://www.euractiv.com/news/moldova-says-russia-illegally-printed-election-ballots-in-transnistria/",
-      "scraped_at": "2025-11-16T03:29:20.948744",
+      "scraped_at": "2025-11-16T03:52:01.743837",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 6
@@ -272,7 +269,7 @@
     {
       "title": "Moldova spy chief warns on new destabilisation attempts by Russia",
       "url": "https://www.euractiv.com/news/moldova-spy-chief-warns-on-new-destabilisation-attempts-by-russia/",
-      "scraped_at": "2025-11-16T03:29:21.792042",
+      "scraped_at": "2025-11-16T03:52:02.466925",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -287,7 +284,7 @@
     {
       "title": "Moldova dismisses Transnistria's request for Russian help",
       "url": "https://www.euractiv.com/news/moldova-dismisses-transnistrias-request-for-russian-help/",
-      "scraped_at": "2025-11-16T03:29:22.288928",
+      "scraped_at": "2025-11-16T03:52:03.381403",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 6
@@ -308,7 +305,7 @@
     {
       "title": "Moldova says customs talks with Transnistria separatists 'difficult'",
       "url": "https://www.euractiv.com/news/moldova-says-customs-talks-with-transnistria-separatists-difficult/",
-      "scraped_at": "2025-11-16T03:29:22.961576",
+      "scraped_at": "2025-11-16T03:52:04.235832",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 9
@@ -326,7 +323,7 @@
     {
       "title": "Transnistria appeals to Russia for ‘protection’, reviving fears for Moldova breakaway region",
       "url": "https://www.theguardian.com/world/2024/feb/29/transnistria-moldova-breakaway-region-russia-protection-appeal",
-      "scraped_at": "2025-11-16T03:29:23.140594",
+      "scraped_at": "2025-11-16T03:52:04.357205",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 7
@@ -347,7 +344,7 @@
     {
       "title": "‘Russia’s dirty money will hijack our democratic process’: how tiny Moldova fears Kremlin is fixing EU referendum",
       "url": "https://www.theguardian.com/world/2024/oct/12/moldova-fears-kremlin-fixing-eu-referendum-russia",
-      "scraped_at": "2025-11-16T03:29:23.339044",
+      "scraped_at": "2025-11-16T03:52:04.567856",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -365,7 +362,7 @@
     {
       "title": "‘It’s better not to try our luck again’: how Russia’s wars left deep scars in Georgia and Moldova",
       "url": "https://www.theguardian.com/world/2024/nov/01/russia-wars-georgia-moldova-europe-voters-closer-ties-moscow",
-      "scraped_at": "2025-11-16T03:29:23.805853",
+      "scraped_at": "2025-11-16T03:52:04.704676",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -380,7 +377,7 @@
     {
       "title": "Russia-Ukraine war at a glance: what we know on day 736",
       "url": "https://www.theguardian.com/world/2024/feb/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-736",
-      "scraped_at": "2025-11-16T03:29:24.053863",
+      "scraped_at": "2025-11-16T03:52:04.811669",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 3
@@ -398,7 +395,7 @@
     {
       "title": "How Moldovans bravely fought off Russian election meddling – and stood up for democracy",
       "url": "https://www.theguardian.com/commentisfree/2024/nov/05/moldova-russia-election-meddling-democracy",
-      "scraped_at": "2025-11-16T03:29:24.525681",
+      "scraped_at": "2025-11-16T03:52:04.919331",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -416,7 +413,7 @@
     {
       "title": "Russia's Gazprom says it will stop supplying Moldova with gas next week",
       "url": "https://www.euronews.com/2024/12/28/russias-gazprom-says-it-will-stop-supplying-moldova-with-gas-next-week",
-      "scraped_at": "2025-11-16T03:29:24.858648",
+      "scraped_at": "2025-11-16T03:52:05.027033",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -424,14 +421,14 @@
       "total_mentions": 1,
       "contexts": [
         {
-          "context": "2004 by Transnistrian officials and later sold to a Russian state-owned company Moldova doesn t recognise the privatisation In late 2022 Moldova suffered major power outages following Russian strikes on neighbouring Ukraine which is interconnected to the Kuciurgan plant ADVERTISEMENT Transnistria which broke away after a short war in 1992 and is not recognised by most countries also declared its own state of emergency in mid-December in case the region does not receive gas supplies When Russia fully invaded Ukraine in"
+          "context": "in 2004 by Transnistrian officials and later sold to a Russian state-owned company Moldova doesn t recognise the privatisation In late 2022 Moldova suffered major power outages following Russian strikes on neighbouring Ukraine which is interconnected to the Kuciurgan plant Transnistria which broke away after a short war in 1992 and is not recognised by most countries also declared its own state of emergency in mid-December in case the region does not receive gas supplies When Russia fully invaded Ukraine in"
         }
       ]
     },
     {
       "title": "Maia Sandu sworn in for second term as Moldova's president amid EU hopes",
       "url": "https://www.euronews.com/my-europe/2024/12/24/maia-sandu-returns-office-for-second-term-as-president-of-moldova",
-      "scraped_at": "2025-11-16T03:29:25.012067",
+      "scraped_at": "2025-11-16T03:52:05.209396",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -446,7 +443,7 @@
     {
       "title": "Moldova declares an energy emergency over fears of Russian gas cut-off",
       "url": "https://www.euronews.com/business/2024/12/13/moldova-declares-an-energy-emergency-over-fears-of-russian-gas-cut-off",
-      "scraped_at": "2025-11-16T03:29:25.094324",
+      "scraped_at": "2025-11-16T03:52:05.298123",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -457,14 +454,14 @@
           "context": "on 16 December and last 60 days A special commission will urgently adopt measures to manage imminent risks if Moscow fails to supply gas to the Kuciurgan power plant the country s largest which is situated in the separatist pro-Russian Transnistria region Moldovan Prime Minister Dorin Recean said his country faces an exceptional situation in which Moscow could deliberately weaponise energy flows to destabilise the country and potentially leave people in the middle of winter without heat and electricity Kuciurgan plant"
         },
         {
-          "context": "deliberately provoked and their goal is to create panic and chaos ADVERTISEMENT He added that a cessation of natural gas could trigger economic and humanitarian crises but vowed that nobody in Moldova would be left in the cold and dark Transnistria which broke away after a short war in 1992 and is not recognised by most countries also declared its own state of emergency this week in case the region does not receive gas supplies Diversifying energy sources When Russia fully"
+          "context": "are deliberately provoked and their goal is to create panic and chaos He added that a cessation of natural gas could trigger economic and humanitarian crises but vowed that nobody in Moldova would be left in the cold and dark Transnistria which broke away after a short war in 1992 and is not recognised by most countries also declared its own state of emergency this week in case the region does not receive gas supplies Diversifying energy sources When Russia fully"
         }
       ]
     },
     {
       "title": "In Moldova's path towards the EU, political prisoners in Transnistria face challenges",
       "url": "https://www.euronews.com/2024/11/21/in-moldovas-path-towards-the-eu-political-prisoners-in-transnistria-face-challenges",
-      "scraped_at": "2025-11-16T03:29:25.445542",
+      "scraped_at": "2025-11-16T03:52:05.384870",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -482,7 +479,7 @@
     {
       "title": "US set to sanction Serbia’s main oil company over Russian ownership, Vučić says",
       "url": "https://www.politico.eu/article/united-states-sanctions-serbia-oil-company-russia-ownership-gazprom/",
-      "scraped_at": "2025-11-16T03:29:26.229886",
+      "scraped_at": "2025-11-16T03:52:05.591995",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -497,7 +494,7 @@
     {
       "title": "Moldova’s pro-EU president on course for reelection",
       "url": "https://www.politico.eu/article/moldova-pro-eu-president-maia-sandu-central-election-commission-world-bank-elections-moscow/",
-      "scraped_at": "2025-11-16T03:29:27.069359",
+      "scraped_at": "2025-11-16T03:52:05.712268",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -512,7 +509,7 @@
     {
       "title": "Moldovans head to polls in major test for EU future",
       "url": "https://www.politico.eu/article/moldovans-head-to-polls-in-major-test-for-eu-path/",
-      "scraped_at": "2025-11-16T03:29:27.751866",
+      "scraped_at": "2025-11-16T03:52:05.830765",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -530,7 +527,7 @@
     {
       "title": "Unquiet on the Eastern front: Why Brussels is losing to Moscow",
       "url": "https://www.politico.eu/article/russia-moscow-belgium-brussels-ukraine-war-defense-military-east/",
-      "scraped_at": "2025-11-16T03:29:28.469712",
+      "scraped_at": "2025-11-16T03:52:05.945111",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -545,7 +542,7 @@
     {
       "title": "Deciding Moldova’s European future",
       "url": "https://www.politico.eu/article/movolda-europe-future-polls-ukraine-rusiia/",
-      "scraped_at": "2025-11-16T03:29:29.090415",
+      "scraped_at": "2025-11-16T03:52:06.075764",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -560,7 +557,7 @@
     {
       "title": "Moldova faces ‘existential’ EU vote in face of Russian interference",
       "url": "https://www.politico.eu/article/moldova-eu-referendum-vote-russian-interference-enlargement-accession/",
-      "scraped_at": "2025-11-16T03:29:29.964031",
+      "scraped_at": "2025-11-16T03:52:06.197488",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -576,9 +573,9 @@
       ]
     },
     {
-      "title": "Russia meddling in Moldova elections, Western allies allege",
+      "title": "Russia meddling in Moldova elections, Western allies allege\r\n",
       "url": "https://www.politico.eu/article/russia-plot-meddle-moldova-election-uncovered-say-western-allies-maia-sandu-kremlin/",
-      "scraped_at": "2025-11-16T03:29:30.676133",
+      "scraped_at": "2025-11-16T03:52:06.325945",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -593,7 +590,7 @@
     {
       "title": "Moldova fights to free itself from Russia’s AI-powered disinformation machine",
       "url": "https://www.politico.eu/article/moldova-fights-free-from-russia-ai-power-disinformation-machine-maia-sandu/",
-      "scraped_at": "2025-11-16T03:29:31.271512",
+      "scraped_at": "2025-11-16T03:52:06.454922",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 1
@@ -606,9 +603,9 @@
       ]
     },
     {
-      "title": "Moldova to allow billionaire’s pro-Kremlin party to field candidates in elections\r\n",
+      "title": "Moldova to allow billionaire’s pro-Kremlin party to field candidates in elections",
       "url": "https://www.politico.eu/article/moldova-allow-billionaire-ilan-shor-sor-pro-kremlin-party-sor-field-candidate-election/",
-      "scraped_at": "2025-11-16T03:29:32.144952",
+      "scraped_at": "2025-11-16T03:52:06.569205",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -623,25 +620,7 @@
     {
       "title": "Moldova turns to France in face of threats from Putin",
       "url": "https://www.politico.eu/article/we-know-were-not-alone-facing-putins-threats-moldova-turns-to-france/",
-      "scraped_at": "2025-11-16T03:29:32.776182",
-      "keyword_counts": {
-        "Trans-Dniester": 0,
-        "Transnistria": 2
-      },
-      "total_mentions": 2,
-      "contexts": [
-        {
-          "context": "to boost military cooperation The pact comes as the Kremlin turns its gaze on the country of 2 6 million which is not a member of either the EU or NATO and where Russian forces are stationed in the breakaway Transnistria region The agreement sends out a powerful message Moldova is becoming stronger alongside France With France s support we know we re not alone Moldovan President Maia Sandu who traveled to Paris after attending the European People s Party congress"
-        },
-        {
-          "context": "have significantly increased recently as the country is set to begin negotiations to join the EU This week Putin said he would support Moldova s autonomous region of Gagauzia after meeting the territory s pro-Moscow leader Last month authorities in Transnistria called on Moscow to protect it against pressure from Moldova That appeal has been noted in Moscow Kremlin spokesperson Dmitry Peskov said on Wednesday Russia is open to provide this assistance but we prefer settling all issues without any exceptions"
-        }
-      ]
-    },
-    {
-      "title": "Moldova turns to France in face of threats from Putin",
-      "url": "https://www.politico.eu/article/we-know-were-not-alone-facing-putins-threats-moldova-turns-to-france/",
-      "scraped_at": "2025-11-16T03:29:32.880129",
+      "scraped_at": "2025-11-16T03:52:06.688198",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 2
@@ -659,7 +638,7 @@
     {
       "title": "Putin vowed to protect pro-Russia Moldovan region, its leader says",
       "url": "https://www.politico.eu/article/vladimir-putin-russia-moldova-gagauzia-evghenia-gutul/",
-      "scraped_at": "2025-11-16T03:29:33.514492",
+      "scraped_at": "2025-11-16T03:52:06.910289",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 3
@@ -677,7 +656,7 @@
     {
       "title": "Moldova dismisses idea that Putin could order Russian invasion",
       "url": "https://www.politico.eu/article/moldova-russia-transnistria-mihail-popso-vladimir-putin-ukraine-war/",
-      "scraped_at": "2025-11-16T03:29:34.519445",
+      "scraped_at": "2025-11-16T03:52:07.027850",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 5
@@ -698,7 +677,7 @@
     {
       "title": "Transnistria begs Putin to ‘protect’ it against Moldova",
       "url": "https://www.politico.eu/article/breakaway-moldovan-region-transnistria-invites-russia-invade/",
-      "scraped_at": "2025-11-16T03:29:35.198089",
+      "scraped_at": "2025-11-16T03:52:07.146235",
       "keyword_counts": {
         "Trans-Dniester": 0,
         "Transnistria": 7
