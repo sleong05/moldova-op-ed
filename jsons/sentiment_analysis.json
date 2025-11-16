@@ -1,0 +1,787 @@
+{
+  "analyzed_at": "2025-11-14T15:47:29.067747",
+  "model_used": "FinBERT (ProsusAI/finbert)",
+  "score_range": "Scores range from -1 (most negative) to 1 (most positive)",
+  "methodology": {
+    "description": "FinBERT is a BERT-based model fine-tuned on financial news from Reuters, Bloomberg, and SEC filings",
+    "output": "3-class classification (positive, negative, neutral) with probability distribution",
+    "score_calculation": "score = positive_probability - negative_probability",
+    "interpretation": "Continuous score from -1 to +1, with neutral_probability indicating factual/objective content"
+  },
+  "original_metadata": {
+    "parsed_at": "2025-11-14T15:45:51.071094",
+    "keywords_searched": [
+      "Trans-Dniester",
+      "Transnistria"
+    ],
+    "words_before": 40,
+    "words_after": 40
+  },
+  "total_articles": 27,
+  "articles": [
+    {
+      "title": "As the war in Ukraine rages on, how long can its neighbour Moldova stay neutral?",
+      "url": "https://www.euronews.com/2023/02/17/as-the-war-in-ukraine-rages-on-how-long-can-its-neighbour-moldova-stay-neutral",
+      "scraped_at": "2025-11-14T15:29:23.285226",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 5
+      },
+      "total_mentions": 5,
+      "contexts": [
+        {
+          "context": "Crimea and the annexation turned public opinion in favour of membership in the alliance The issue was not and is not discussed so much in Moldova it is really not the main topic in the debate on public policy Related Transnistria separatists set their eyes on possible Russian unification But Chisinau may be pushed in this direction In the event of an escalation of the war in Ukraine Dumoulin added we cannot rule out Chisinau s desire to reaffirm its position",
+          "sentiment_analysis": {
+            "score": -0.14747601747512817,
+            "positive_prob": 0.11802372336387634,
+            "negative_prob": 0.2654997408390045,
+            "neutral_prob": 0.6164765357971191,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "On the other hand there is a concern in Chisinau about other levers of destabilisation that Russia has AP Photo A woman walks past the Operational Group of Russian Forces headquarters in Tiraspol the capital of the breakaway region of Transnistria AP Photo A number of analysts do not rule out that the frozen conflict in Transnistria a Moscow-backed breakaway region of Moldova could be a trigger for Moldova to give up its neutrality in the future Today this conflict is under relative control Not a single shot has been fired since August 1992 when the confrontation between Chisinau and the unrecognised Transnistria Moldovan Republic entered a peaceful phase But there is a Russian peacekeeping contingent in Transnistria Dumoulin notes Russia pledged to leave the region in the late 1990s But it has not fulfilled its obligation so far Many draw a parallel between the creation of the so-called Donetsk and Luhansk People s Republics in 2014 and",
+          "sentiment_analysis": {
+            "score": -0.3105594366788864,
+            "positive_prob": 0.06492261588573456,
+            "negative_prob": 0.37548205256462097,
+            "neutral_prob": 0.5595954060554504,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "As the war in Ukraine rages on, how long can its neighbour Moldova stay neutral?\r\n",
+      "url": "https://www.euronews.com/2023/02/17/as-the-war-in-ukraine-rages-on-how-long-can-its-neighbour-moldova-stay-neutral",
+      "scraped_at": "2025-11-14T15:29:23.441509",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 5
+      },
+      "total_mentions": 5,
+      "contexts": [
+        {
+          "context": "Crimea and the annexation turned public opinion in favour of membership in the alliance The issue was not and is not discussed so much in Moldova it is really not the main topic in the debate on public policy Related Transnistria separatists set their eyes on possible Russian unification But Chisinau may be pushed in this direction In the event of an escalation of the war in Ukraine Dumoulin added we cannot rule out Chisinau s desire to reaffirm its position",
+          "sentiment_analysis": {
+            "score": -0.14747601747512817,
+            "positive_prob": 0.11802372336387634,
+            "negative_prob": 0.2654997408390045,
+            "neutral_prob": 0.6164765357971191,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "On the other hand there is a concern in Chisinau about other levers of destabilisation that Russia has AP Photo A woman walks past the Operational Group of Russian Forces headquarters in Tiraspol the capital of the breakaway region of Transnistria AP Photo A number of analysts do not rule out that the frozen conflict in Transnistria a Moscow-backed breakaway region of Moldova could be a trigger for Moldova to give up its neutrality in the future Today this conflict is under relative control Not a single shot has been fired since August 1992 when the confrontation between Chisinau and the unrecognised Transnistria Moldovan Republic entered a peaceful phase But there is a Russian peacekeeping contingent in Transnistria Dumoulin notes Russia pledged to leave the region in the late 1990s But it has not fulfilled its obligation so far Many draw a parallel between the creation of the so-called Donetsk and Luhansk People s Republics in 2014 and",
+          "sentiment_analysis": {
+            "score": -0.3105594366788864,
+            "positive_prob": 0.06492261588573456,
+            "negative_prob": 0.37548205256462097,
+            "neutral_prob": 0.5595954060554504,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Russia accuses Ukraine of 'staging' justification to invade Moldova",
+      "url": "https://www.euronews.com/2023/02/23/russia-accuses-ukraine-of-staging-justification-to-invade-moldova",
+      "scraped_at": "2025-11-14T15:29:24.054727",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 6
+      },
+      "total_mentions": 6,
+      "contexts": [
+        {
+          "context": "reserved By euronews Published on 23 02 2023 17 35 GMT 1 Updated 28 02 2023 17 57 GMT 1 Share Comments According to state-owned media Russia s defence ministry has accused Ukraine of planning to invade Moldova s breakaway Transnistria region after a false-flag operation Russia s defence ministry has accused Ukraine of planning to invade Moldova s breakaway Transnistria region after a false-flag operation the RIA news agency reported According to RIA the ministry claimed Ukraine planned to stage an attack purportedly by Russian forces in Transnistria as a pretext for the invasion But it was Russia s president Vladimir Putin who this week revoked a decree that had committed Russia to a settlement in Transnistria that respected Moldova s territorial integrity The Institute for the Study of War ISW says the move does not indicate that Putin intends to attack Moldova an undertaking for which he lacks military capability although it does point towards an",
+          "sentiment_analysis": {
+            "score": -0.7502351980656385,
+            "positive_prob": 0.02482938952744007,
+            "negative_prob": 0.7750645875930786,
+            "neutral_prob": 0.20010603964328766,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "a coup to overthrow the Moldovan authorities and sow chaos in the small former Soviet republic ADVERTISEMENT When Russia invaded Ukraine a year ago Moscow wanted to create a land corridor through southern Ukraine to the Moscow-backed breakaway region of Transnistria a narrow strip of land almost 200km long and 30km wide between the Dniester River and Moldova s eastern border with Ukraine Transnistria is not recognised as a sovereign state by the international community or indeed even by Russia although since 1992 just under 2 000 Russian soldiers have been stationed there In recent days Russia s president has once again revived his",
+          "sentiment_analysis": {
+            "score": 0.0367003008723259,
+            "positive_prob": 0.15989522635936737,
+            "negative_prob": 0.12319492548704147,
+            "neutral_prob": 0.7169098258018494,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Russia conducting 'hybrid war' in Moldova with protests and cyber attacks: Prime Minister",
+      "url": "https://www.euronews.com/my-europe/2023/02/07/russia-conducting-hybrid-war-in-moldova-with-protests-and-cyber-attacks-prime-minister",
+      "scraped_at": "2025-11-14T15:29:24.687980",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 2
+      },
+      "total_mentions": 2,
+      "contexts": [
+        {
+          "context": "wages have not adjusted accordingly The EU Commission proposed 145 million in new funding just last week and said it will continue to support the country s economy and energy security At the same time the pro-Russian breakaway region of Transnistria remains a source of concern as the war is still ongoing The narrow strip of land almost 200 kilometers long and 30 kilometers wide is located between the Dniester River and Moldova s eastern border with Ukraine It split from Moldova in 1992 but is not recognised as a sovereign state by the international community or even by Russia We consider the situation in our separatist Transnistria region fragile but stable the prime minister said Gavrilita also told Euronews there is increased illegal migration using the Ukrainian conflict as a transit route or using Moldova as a transit country These numbers are not very big but she",
+          "sentiment_analysis": {
+            "score": -0.5425034016370773,
+            "positive_prob": 0.11237718164920807,
+            "negative_prob": 0.6548805832862854,
+            "neutral_prob": 0.23274220526218414,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Euroviews. Moldova is bravely standing up to Russia. This could be one of Europe's success stories",
+      "url": "https://www.euronews.com/2023/02/06/moldova-is-bravely-standing-up-to-russia-this-could-be-one-of-europes-success-stories",
+      "scraped_at": "2025-11-14T15:29:25.287421",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 4
+      },
+      "total_mentions": 4,
+      "contexts": [
+        {
+          "context": "A girl walks past an emblem of the Transnistrian Moldavian Republic in Tiraspol the capital of the breakaway region of Transnistria November 2021 Copyright AP Photo Euronews By Claudiu Degeratu Security expert Published on 06 02 2023 16 49 GMT 1 Updated 17 02 Share Comments The opinions expressed in this article are those of the author and do not represent",
+          "sentiment_analysis": {
+            "score": -0.04080423153936863,
+            "positive_prob": 0.017502380535006523,
+            "negative_prob": 0.05830661207437515,
+            "neutral_prob": 0.9241909980773926,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "expanding its aggression against Ukraine to the eastern European country of 2 6 million people Chișinău has remained unmoved surprising many Yet after all Moldovans have been acutely aware of Moscow s malignant behaviour ever since the 1992 war in Transnistria brought on a new invention in terms of Russia s control in the post-Soviet space A frozen conflict in a grey militarily controlled breakaway area within the territory of a state forcing it to declare itself as neutral allowed Russia",
+          "sentiment_analysis": {
+            "score": -0.6489962711930275,
+            "positive_prob": 0.07142861932516098,
+            "negative_prob": 0.7204248905181885,
+            "neutral_prob": 0.20814645290374756,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "and had no plans to defend against Russia forcing Ukraine to a stalemate an echo of Moldova s political and military neutrality The illegally annexed territories were quickly militarised following the same blueprint For decades thousands of Russian soldiers in Transnistria officially on a peacekeeping mission were there to remind everyone what would happen if the country s leaders were to change their minds or earlier agreements or fight back Last year s all-out war of aggression however made Russia a",
+          "sentiment_analysis": {
+            "score": -0.08387331664562225,
+            "positive_prob": 0.1263418048620224,
+            "negative_prob": 0.21021512150764465,
+            "neutral_prob": 0.6634430885314941,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "to Russian Foreign Minister Sergey Lavrov menacing Chișinău in recent days and labelling it as the West s new anti-Russian project BELA SZANDELSZKY AP Soldiers of the Transnistrian Army are holding red flags during the Victory Day parade in Tiraspol Transnistria in 2005 BELA SZANDELSZKY AP The eternal head of Russian diplomacy was probably spurred on by the prospect that Moscow would permanently lose its ability to blackmail it on matters such as domestic and foreign policy energy and economic assistance",
+          "sentiment_analysis": {
+            "score": -0.8952230457216501,
+            "positive_prob": 0.019907867535948753,
+            "negative_prob": 0.9151309132575989,
+            "neutral_prob": 0.06496113538742065,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Russia formally withdraws from key post-Cold War European armed forces treaty",
+      "url": "https://www.euractiv.com/news/russia-formally-withdraws-from-key-post-cold-war-european-armed-forces-treaty/",
+      "scraped_at": "2025-11-14T15:29:27.137391",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "signed a deal for a permanent naval base on the Black Sea coast of the occupied Georgian region of Abkhazia Russia has signed a deal for a permanent naval base on the Black Sea coast Russia still keeps troops in Transnistria part of the territory of Moldova a EU candidate country In 2011 in response to the Russian suspension which Washington said was not legal under the treaty the United States and NATO ceased implementing it in relation to Russia according",
+          "sentiment_analysis": {
+            "score": 0.49710458517074585,
+            "positive_prob": 0.5550225973129272,
+            "negative_prob": 0.057918012142181396,
+            "neutral_prob": 0.38705939054489136,
+            "classification": "positive"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova moves to bar members of banned pro-Russia party from elections",
+      "url": "https://www.euractiv.com/news/moldova-moves-to-bar-members-of-banned-pro-russia-party-from-elections/",
+      "scraped_at": "2025-11-14T15:29:28.383474",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "billion bank scandal and money laundering and the United States and European Union have imposed sanctions on him He and Russia deny wanting to destabilise Moldova Moscow which has about 1 500 troops stationed in Moldova s breakaway region of Transnistria also denied allegations by Sandu that it tried to overthrow her but relations have soured Chisinau s ambassador to Moscow was summoned by the Russian Foreign Ministry on Tuesday and informed that Moscow was taking reciprocal measures after the expulsion",
+          "sentiment_analysis": {
+            "score": -0.8373864740133286,
+            "positive_prob": 0.04572661221027374,
+            "negative_prob": 0.8831130862236023,
+            "neutral_prob": 0.07116027176380157,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova will uphold deal with Gazprom to prevent crises, minister says",
+      "url": "https://www.euractiv.com/news/moldova-will-uphold-deal-with-gazprom-to-prevent-crises-minister-says/",
+      "scraped_at": "2025-11-14T15:29:29.462301",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 8
+      },
+      "total_mentions": 8,
+      "contexts": [
+        {
+          "context": "Moldova will uphold its gas supply contract with Russia s Gazprom in order to ward off crises over power prices in the country and hardship in its breakaway Transnistria region Energy Minister Victor Parlicov said on Thursday 21 September Moldova will uphold its gas supply contract with Russia s Gazprom in order to ward off crises over power prices in the country and hardship in its breakaway Transnistria region Energy Minister Victor Parlicov said on Thursday 21 September Moldova wedged between Ukraine and European Union member Romania stopped using supplies from Gazprom in December 2022 and with EU financial help now relies on Western sources Ex-Soviet Moldova is no longer receiving Russian gas or enduring the blackmail imposed by gas Gazprom s daily supply of 5 7 million cubic metres is less than required by contract and this is used solely by Transnistria a pro-Russian enclave on Moldova s eastern border which declared itself independent as the Soviet Union was collapsing Transnistria which has no international recognition depends on Gazprom s shipments to endure the winter and to supply a thermal plant that produces at cheaper than market rates 80 of the power used in the rest of Moldova There are different options and we can manage without power from Transnistria But we would have to be prepared for several crises at once Parlicov told Vocea Basarabiei the Voice of Bessarabia television That means higher electricity prices here at home and a possible humanitarian crisis within months in Transnistria Let s not forget that nearly 300 000 people live there and they are almost all Moldovan citizens Moldova he said had no intention of breaking the contract but had to be prepared for Gazprom to exercise its legal right to stop honouring it Transnistria has paid nothing for its supplies of Russian gas for some time but Gazprom has not insisted on payment Moldovan officials estimate Transnistria s debts for gas arrears at about 10 billion Moldova has put its own debts to Gazprom at 8 6 million on the basis of an international audit a fraction of the 709 million demanded by the Russian oil and",
+          "sentiment_analysis": {
+            "score": -0.36892328411340714,
+            "positive_prob": 0.044391147792339325,
+            "negative_prob": 0.41331443190574646,
+            "neutral_prob": 0.5422943830490112,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldovan region of Gagauzia headed for clash with pro-EU government",
+      "url": "https://www.euractiv.com/news/moldovan-region-of-gagauzia-headed-for-clash-with-pro-eu-government/",
+      "scraped_at": "2025-11-14T15:29:30.569271",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "in Moldova s capital in recent months The Moldovan government sees Gagauzia a predominantly Turkic region of around 140 000 people as one of two political beachheads by former Soviet master Moscow to destabilise internal national politics The other is Transnistria which is on Moldova s eastern border with Ukraine hosts around 1 500 Russian troops and is closely allied with Moscow Together with Ukraine Moldova last year obtained the status of EU candidate country Edited by Georgi Gotev",
+          "sentiment_analysis": {
+            "score": 0.33777424693107605,
+            "positive_prob": 0.35710853338241577,
+            "negative_prob": 0.01933428645133972,
+            "neutral_prob": 0.6235571503639221,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova outdoor assembly to confirm pro-European orientation",
+      "url": "https://www.euractiv.com/news/moldova-outdoor-assembly-to-confirm-pro-european-orientation/",
+      "scraped_at": "2025-11-14T15:29:31.494927",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 2
+      },
+      "total_mentions": 2,
+      "contexts": [
+        {
+          "context": "its constitution sets down a policy of neutrality which rules out NATO membership In a bold geopolitical move dubbed a historic moment for the bloc EU leaders approved The country remains beset by the presence of a pro-Russian separatist statelet Transnistria 30 years after a brief war pitting it against newly independent Moldova s army Some 1 500 Russian peacekeepers remain in Transnistria and its leaders accuse Ukraine of trying to topple them In turn Moldova accuses Russia of trying to destabilise it Moscow has been critical of Sandu s pro-Western moves and on Monday Russian Foreign Ministry spokeswoman Maria Zakharova denounced calls",
+          "sentiment_analysis": {
+            "score": -0.8767377864569426,
+            "positive_prob": 0.022765861824154854,
+            "negative_prob": 0.8995036482810974,
+            "neutral_prob": 0.07773056626319885,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Scholz in Bucharest to stress support for Romania, Moldova",
+      "url": "https://www.euractiv.com/news/scholz-in-bucharest-to-stress-support-for-romania-moldova/",
+      "scraped_at": "2025-11-14T15:29:32.637286",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "much complicated by hybrid attacks from Russia A major complication is the large number of Ukrainian refugees and the impact of the war in Ukraine on the Moldovan economy said Iohannis A breakaway mainly Russian-speaking region of Moldova known as Transnistria is controlled by pro-Moscow separatists and is also home to a garrison of Russian troops Its allegiance to Moscow and location on Ukraine s western border have been a constant cause of concern since Russia invaded Ukraine in February last",
+          "sentiment_analysis": {
+            "score": -0.9234014041721821,
+            "positive_prob": 0.011366914957761765,
+            "negative_prob": 0.9347683191299438,
+            "neutral_prob": 0.05386478453874588,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova no longer needs Russian gas, minister says",
+      "url": "https://www.euractiv.com/news/moldova-no-longer-needs-russian-gas-minister-says/",
+      "scraped_at": "2025-11-14T15:29:33.677669",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 7
+      },
+      "total_mentions": 7,
+      "contexts": [
+        {
+          "context": "imposed by gas giant Gazprom over its difficulties in paying for supplies the country s energy minister said Victor Parlicov speaking to TV8 television on Wednesday evening 15 March said Gazprom had been providing supplies only to Moldova s Russian-backed Transnistria separatist region since December with none going to central authorities in Chisinau He said Moldova wedged between Ukraine and European Union member Romania was able to secure European supplies thanks to 300 million in credits from the European Bank for Reconstruction and Development But Transnistria he said has never paid Gazprom for the gas it receives Transnistria did t pay for gas before and it s not paying now Parlicov said Gazprom puts up with debts from there But when the rest of Moldova was getting gas the Russian company resorted to supply cuts to blackmail Gazprom",
+          "sentiment_analysis": {
+            "score": -0.5344473570585251,
+            "positive_prob": 0.14800216257572174,
+            "negative_prob": 0.6824495196342468,
+            "neutral_prob": 0.16954831779003143,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "said Moldova one of Europe s poorest countries has been buffeted by Russia s invasion of Ukraine and the presence of pro-Russian separatists on its doorstep Led by pro-European President Maia Sandu Moldova accuses Russia of plotting to destabilise it Transnistria meanwhile last week said it had foiled a Ukrainian plot to assassinate its leaders Moldova s intelligence service said Thursday 9 February that Russia was acting to destabilise the ex-Soviet A contingent of 1 500 Russian peacekeepers remain in the separatist region 30 years after a brief war pitting it against newly independent Moldova Transnistria channels funds from gas bills paid by domestic and industrial users to a gas account used to cover some of its substantial budget deficits The sum of Transnistria s unpaid bills for Russian gas is estimated by Moldovan officials at several billion dollars Accumulated arrears for the Moldovagaz company in the rest of Moldova stand at 709 million though officials in Chisinau last year ordered an international audit of the debt Moldova depends on Transnistria to provide most of its electricity at relatively cheap prices from a thermal power station supplied by Gazprom",
+          "sentiment_analysis": {
+            "score": -0.6303436383605003,
+            "positive_prob": 0.07788369804620743,
+            "negative_prob": 0.7082273364067078,
+            "neutral_prob": 0.213889017701149,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova no longer needs Russian gas, minister says",
+      "url": "https://www.euractiv.com/news/moldova-no-longer-needs-russian-gas-minister-says/",
+      "scraped_at": "2025-11-14T15:29:34.217287",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 7
+      },
+      "total_mentions": 7,
+      "contexts": [
+        {
+          "context": "imposed by gas giant Gazprom over its difficulties in paying for supplies the country s energy minister said Victor Parlicov speaking to TV8 television on Wednesday evening 15 March said Gazprom had been providing supplies only to Moldova s Russian-backed Transnistria separatist region since December with none going to central authorities in Chisinau He said Moldova wedged between Ukraine and European Union member Romania was able to secure European supplies thanks to 300 million in credits from the European Bank for Reconstruction and Development But Transnistria he said has never paid Gazprom for the gas it receives Transnistria did t pay for gas before and it s not paying now Parlicov said Gazprom puts up with debts from there But when the rest of Moldova was getting gas the Russian company resorted to supply cuts to blackmail Gazprom",
+          "sentiment_analysis": {
+            "score": -0.5344473570585251,
+            "positive_prob": 0.14800216257572174,
+            "negative_prob": 0.6824495196342468,
+            "neutral_prob": 0.16954831779003143,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "said Moldova one of Europe s poorest countries has been buffeted by Russia s invasion of Ukraine and the presence of pro-Russian separatists on its doorstep Led by pro-European President Maia Sandu Moldova accuses Russia of plotting to destabilise it Transnistria meanwhile last week said it had foiled a Ukrainian plot to assassinate its leaders Moldova s intelligence service said Thursday 9 February that Russia was acting to destabilise the ex-Soviet A contingent of 1 500 Russian peacekeepers remain in the separatist region 30 years after a brief war pitting it against newly independent Moldova Transnistria channels funds from gas bills paid by domestic and industrial users to a gas account used to cover some of its substantial budget deficits The sum of Transnistria s unpaid bills for Russian gas is estimated by Moldovan officials at several billion dollars Accumulated arrears for the Moldovagaz company in the rest of Moldova stand at 709 million though officials in Chisinau last year ordered an international audit of the debt Moldova depends on Transnistria to provide most of its electricity at relatively cheap prices from a thermal power station supplied by Gazprom",
+          "sentiment_analysis": {
+            "score": -0.6303436383605003,
+            "positive_prob": 0.07788369804620743,
+            "negative_prob": 0.7082273364067078,
+            "neutral_prob": 0.213889017701149,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Putin cancels sensitive Moldova decree, prompting Biden to react",
+      "url": "https://www.euractiv.com/news/putin-cancels-sensitive-moldova-decree-prompting-biden-to-react/",
+      "scraped_at": "2025-11-14T15:29:35.449411",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 5
+      },
+      "total_mentions": 5,
+      "contexts": [
+        {
+          "context": "President Vladimir Putin revoked on Tuesday 21 February a 2012 decree that in part underpinned Moldova s sovereignty in resolving the future of the Transnistria region US President Joe Biden reacted from Warsaw President Vladimir Putin revoked on Tuesday 21 February a 2012 decree that in part underpinned Moldova s sovereignty in resolving the future of the Transnistria region a Moscow-backed separatist region which borders Ukraine and where Russia keeps troops US President Joe Biden reacted from Warsaw The decree which included a Moldova component outlined Russia s foreign policy 11 years ago which assumed Moscow s closer",
+          "sentiment_analysis": {
+            "score": -0.010216623544692993,
+            "positive_prob": 0.07910245656967163,
+            "negative_prob": 0.08931908011436462,
+            "neutral_prob": 0.8315784931182861,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "changes taking place in international relations The decree committed Russia to seeking ways to resolve the separatist issue based on respect for the sovereignty territorial integrity and neutral status of the Republic of Moldova in determining the special status of Transnistria It is part of a series of anti-Western moves announced by Putin on Tuesday Alexandru Flenchea Moldovan chairman of the joint control commission in the security zone around Transnistria said the cancellation did not mean that Putin was abandoning the notion of Moldovan sovereignty The decree is a policy document that implements the concept of Russia s foreign policy Flenchea told Publika-TV Moldova and Russia have a basic political",
+          "sentiment_analysis": {
+            "score": 0.08334708586335182,
+            "positive_prob": 0.10279276221990585,
+            "negative_prob": 0.01944567635655403,
+            "neutral_prob": 0.8777616024017334,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "a coup to overthrow the Moldovan authorities and sow chaos in the small former Soviet republic now candidate for EU membership Moldova s President Maia Sandu accused Russia on Monday 13 February of planning to use foreign The Russian-speakers of Transnistria seceded from Moldova in 1990 one year before the dissolution of the Soviet Union amid fears that Moldova would merge with Romania whose language and culture it broadly shares A brief war pitted newly independent Moldova against the separatists in",
+          "sentiment_analysis": {
+            "score": -0.826752096414566,
+            "positive_prob": 0.021769613027572632,
+            "negative_prob": 0.8485217094421387,
+            "neutral_prob": 0.12970863282680511,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Growing fear of Russia sparks unease in Moldova",
+      "url": "https://www.euractiv.com/news/growing-fear-of-russia-sparks-unease-in-moldova/",
+      "scraped_at": "2025-11-14T15:29:36.585858",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "but the country needs to be prepared for all eventualities in the face of Russia s President Vladimir Putin who does not seem to operate by our standards of rationality Moscow still maintains troops in Moldova s breakaway region of Transnistria but their number remains relatively small The unrecognised region seceded from Moldova in 1990 after a brief war in the wake of the collapse of the Soviet Union The conflict has been frozen since 1992 The greatest benefits that Russia",
+          "sentiment_analysis": {
+            "score": -0.17716751247644424,
+            "positive_prob": 0.07066992670297623,
+            "negative_prob": 0.24783743917942047,
+            "neutral_prob": 0.6814926266670227,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Russia acting to destabilise Moldova: Chisinau",
+      "url": "https://www.euractiv.com/news/russia-acting-to-destabilise-moldova-chisinau/",
+      "scraped_at": "2025-11-14T15:29:37.644633",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 2
+      },
+      "total_mentions": 2,
+      "contexts": [
+        {
+          "context": "government firmly in the latter category The country of 2 6 million people wedged between Ukraine and Romania applied to join the European Union just after Russia invaded Ukraine in February Russia maintains troops in Moldova s breakaway region of Transnistria Our institutions are working to ensure the country s security and are using all the informational help of partners to anticipate and prevent any attempts to undermine our state said a press release from Sandu s office Last December Moldova s spy chief Alexandru Musteata warned of a very high risk of a new Russian offensive towards his country s east next year and said Moscow still aimed to secure a land corridor through Ukraine to Transnistria Moldova s spy chief warned on Monday 19 December of a very high risk of a",
+          "sentiment_analysis": {
+            "score": -0.07257536053657532,
+            "positive_prob": 0.16858036816120148,
+            "negative_prob": 0.2411557286977768,
+            "neutral_prob": 0.5902639627456665,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova's Sandu asks allies for air defences, says Russia trying to destabilise country",
+      "url": "https://www.euractiv.com/news/moldovas-sandu-asks-allies-for-air-defences-says-russia-trying-to-destabilise-country/",
+      "scraped_at": "2025-11-14T15:29:38.566030",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 2
+      },
+      "total_mentions": 2,
+      "contexts": [
+        {
+          "context": "with talks also on a bilateral basis with allies She said she felt the country was safe given Ukraine s resistance to Russia Moldova has accused Moscow of trying to use its influence over the separatist movement in mainly Russian-speaking Transnistria to destabilise the rest of the mainly Romanian-speaking country Sandu said what she called destabilising efforts had failed so far and that neither side wanted conflict Russia did try to mobilise corrupt groups in Moldova and pro-Russian parties with the",
+          "sentiment_analysis": {
+            "score": -0.8331509083509445,
+            "positive_prob": 0.031119421124458313,
+            "negative_prob": 0.8642703294754028,
+            "neutral_prob": 0.10461027920246124,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "but also Russian gas provider Gazprom slashing supplies Moldova said on Wednesday 23 November Russia had sent no signals that it would stop Today the right bank gets gas from market while the gas from Gazprom is used in the Transnistria region so we can say that Moldova is finally freeing itself from the dependency of Russian gas Sandu said She added that while high prices were not helpful the country had secured supply for winter and would seek long-term contracts",
+          "sentiment_analysis": {
+            "score": -0.6534443646669388,
+            "positive_prob": 0.16058282554149628,
+            "negative_prob": 0.8140271902084351,
+            "neutral_prob": 0.0253900233656168,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moldova dismisses Russian claims of Ukrainian plot to invade breakaway region",
+      "url": "https://www.theguardian.com/world/2023/feb/24/moldova-dismisses-russia-claims-of-ukraine-plot-to-invade-transnistria-region",
+      "scraped_at": "2025-11-14T15:29:39.038695",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 3
+      },
+      "total_mentions": 3,
+      "contexts": [
+        {
+          "context": "Moldova s government has called for calm after Moscow claimed without evidence that an invasion of Transnistria was likely Moldova s government has dismissed an accusation by Russia s defence ministry thatUkraineis planning to invade the breakaway Moldovan region of Transnistria after staging a false-flag operation We call for calm and for information to be received by the public from official and credible sources of the Republic ofMoldova the government said in a statement Our institutions cooperate with foreign partners and",
+          "sentiment_analysis": {
+            "score": -0.33060789853334427,
+            "positive_prob": 0.1132989153265953,
+            "negative_prob": 0.4439068138599396,
+            "neutral_prob": 0.4427942931652069,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "to the impending provocation of the Ukrainian side it said in a statement Separately Tass news agency quoted Russian deputy foreign minister Mikhail Galuzin as saying the west had instructed Moldova s government in Chisinau to stop all interaction with Transnistria s Moscow-backed authorities Ukraine s government has yet to respond to the accusations from the Russian defence ministry Since Russia s invasion of Ukraine the tiny republic which is one of Europe s poorest countries has had to contend with",
+          "sentiment_analysis": {
+            "score": -0.9059768188744783,
+            "positive_prob": 0.019121361896395683,
+            "negative_prob": 0.925098180770874,
+            "neutral_prob": 0.05578042194247246,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Putin’s threat hangs over tiny Moldova, but its people filled me with hope",
+      "url": "https://www.theguardian.com/commentisfree/2023/may/24/moldova-vladimir-putin-threat-ukraine-europe",
+      "scraped_at": "2025-11-14T15:29:39.371638",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 6
+      },
+      "total_mentions": 6,
+      "contexts": [
+        {
+          "context": "electricity still comes fromTransnistria a Moldovan region which broke away in 1992 and is now controlled by Russian-backed separatists But ifRussiawere to cut gas supplies causing electricity generation to grind to a halt it would trigger an economic collapse in Transnistria rather than a protracted blackout in Moldova Moldova and Ukraine have synchronised their grids with the EU s and built interconnections with neighbouring Romania Without electricity powered by Russian gas Moldova would temporarily struggle but it would survive And Russia knows it It also knows that its invasion of Ukraine has upended Transnistria s economy casting doubt over this puppetregion s political future Transnistria survives on the electricity it sells to Moldova powered by Russian gas that it gets for free Russia maintains a massive ammunition depot and a1 500-strong military forcein Transnistria but only about 70 of these soldiers are actually Russian The rest are Transnistrians with dual Moldovan and Russian passports for most their role in Russian forces is just a job Why then does Moldova not seek to regain control",
+          "sentiment_analysis": {
+            "score": -0.6745975948870182,
+            "positive_prob": 0.03295424208045006,
+            "negative_prob": 0.7075518369674683,
+            "neutral_prob": 0.2594938576221466,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "friend of mine explained the predicament The answer is counterintuitive yet logical Why accelerate a political process that would distract Moldova from its EU reform path while possibly triggering aRussian-backed coupor overt military response Chisinau wants the eventual reintegration of Transnistria but wants it to happen through the Moldovisation of Transnistria not the other way around All that said Moldova s security situation remains precarious with a tiny and underequipped army facing a persistent Russian threat The country s economic challenge is almost as daunting Lacking a strong industrial base Moldova",
+          "sentiment_analysis": {
+            "score": -0.4024793207645416,
+            "positive_prob": 0.08686977624893188,
+            "negative_prob": 0.4893490970134735,
+            "neutral_prob": 0.42378106713294983,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Putin could attack Baltics and Moldova next, says Belgian army chief",
+      "url": "https://www.politico.eu/article/belgian-army-chief-hofman-putin-attack-after-ukraine-baltics-moldova-next-russia/",
+      "scraped_at": "2025-11-14T15:29:40.987146",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "their ongoing war against Ukraine this weakness is temporary he said If Russia wins the war it will eventually regenerate the war machine and rebuild its armed forces the army chief warned Moldova neighbors Ukraine and one of its regions Transnistria is backed by the Kremlin It has functioned as an unrecognized state since the fall of the USSR keeping its Soviet-era hammer and sickle flag and using Russian as its official language To the Kremlin s west the Baltic countries",
+          "sentiment_analysis": {
+            "score": -0.05872736871242523,
+            "positive_prob": 0.10159140825271606,
+            "negative_prob": 0.1603187769651413,
+            "neutral_prob": 0.7380898594856262,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Liberté, égalité and military hardware: France sets its sights on Russia’s former allies\r\n",
+      "url": "https://www.politico.eu/article/emmanuel-macron-france-russia-kazakhstan-uzbekistan-allies/",
+      "scraped_at": "2025-11-14T15:29:41.094577",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 2
+      },
+      "total_mentions": 2,
+      "contexts": [
+        {
+          "context": "a French government official speaking on condition of being granted anonymity because they re not allowed to speak publicly Both countries have Russian troops stationed on their territories in Moldova s case against its will in the breakaway region of Transnistria and in Armenia s because of deals intended to bolster its security against regional threats following the fall of the USSR Macron and Uzbekistan s President Shavkat Mirziyoyev visit the Gur-e-Amir mausoleum Ludovic Marin AFP via Getty Images But now",
+          "sentiment_analysis": {
+            "score": -0.0505237951874733,
+            "positive_prob": 0.10677271336317062,
+            "negative_prob": 0.15729650855064392,
+            "neutral_prob": 0.7359307408332825,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "arrest Russian President Vladimir Putin if he sets foot in Armenia again and has invited U S troops to hold joint exercises with the Armenian military Moldova meanwhile has hundreds of Russian troops based in the unrecognized breakaway region of Transnistria The country is an aspiring candidate to join the European Union and has received significant support from the bloc including France in countering Moscow s influence Both Moldova and Armenia are not in a situation of attack but rather of",
+          "sentiment_analysis": {
+            "score": 0.46944180876016617,
+            "positive_prob": 0.5138387680053711,
+            "negative_prob": 0.044396959245204926,
+            "neutral_prob": 0.4417642652988434,
+            "classification": "positive"
+          }
+        }
+      ]
+    },
+    {
+      "title": "How Moldova’s climate plans are entangled with separatists and Russian troops\r\n",
+      "url": "https://www.politico.eu/article/moldova-eu-climate-plan-carbon-tax-entangled-with-separatists-and-russian-troops-transnistria-industry/",
+      "scraped_at": "2025-11-14T15:29:41.947303",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 15
+      },
+      "total_mentions": 15,
+      "contexts": [
+        {
+          "context": "The country s breakaway Transnistria region is complicating Moldova s attempts to set up a carbon pricing scheme Copy Link Free article usually reserved for subscribers MOLDOVA-TRANSNISTRIA-UKRAINE-RUSSIA-CONFLICT Around 1 500 Russian troops are stationed in Transnistria Daniel Mihailescu AFP via Getty Images August 24 2023 11 00 am CET By Federica Di Sario Moldova wants to introduce its own carbon tax to keep pace with the European Union s climate legislation but the effort is creating tensions with its Russian-backed breakaway region of Transnistria home to most of the country s heavy industry The EU s Carbon Border Adjustment Measure CBAM is a border tax aimed at keeping bloc s companies competitive by ensuring that rivals also pay a carbon price It targets six carbon-intensive sectors highly exposed to international trade aluminum cement iron and steel electricity hydrogen and fertilizers Its transitional phase launches on October and goes fully into effect in 2026 That s a big potential problem for Moldova and especially Transnistria which is a large exporter of iron and steel to the EU A study by Carnegie Europe found the CBAM would most likely lead to unemployment and reduced wages and could put up to 2 percent of Moldova s employment",
+          "sentiment_analysis": {
+            "score": -0.8365264944732189,
+            "positive_prob": 0.03515185788273811,
+            "negative_prob": 0.871678352355957,
+            "neutral_prob": 0.09316981583833694,
+            "classification": "negative"
+          }
+        },
+        {
+          "context": "currently about 90 per ton The way non-EU countries can avoid the levy is to have their own carbon pricing schemes something Moldova plans to do by 2025 The problem is that Moldova has no clue how to ensure that Transnistria a region plagued by corruption and which does not recognize the government s authority would implement complex policies such as carbon measurement reporting and verification First how can we monitor such a market How do you then check it and get the reporting on these emissions Carolina Novac Moldova s state secretary for energy told POLITICO How do we enforce such a mechanism both internally but also in Transnistria Around 1 500 Russian troops are stationed in Transnistria part of a frozen conflict dating back to the fall of the USSR The region is also home to several Soviet-era industrial plants which generate over half of its GDP through exports Policymakers in Chişinău can estimate and monitor emissions",
+          "sentiment_analysis": {
+            "score": -0.07157311215996742,
+            "positive_prob": 0.0363411121070385,
+            "negative_prob": 0.10791422426700592,
+            "neutral_prob": 0.8557446599006653,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "according to Igor Munteanu a former Moldovan diplomat who served as the country s ambassador to the U S and now heads the Institute for Development and Social Initiatives in Chișinău It is not feasible to impose anything today because Transnistria is an occupied territory Munteanu said With or without you If Moldova wants to set up a carbon pricing scheme in time to comply with the CBAM the only option is to leave Transnistria behind at least for the time being according to Novac That would lead to the awkward situation of having the country s highest carbon-emitting region remaining outside the scheme which would undermine any effort to spur its decarbonization A soldier and a woman walk past the headquarters of the Operative Group of the Russian Troops in the town of Tiraspol the capital of Transnistria Sergei Gapon AFP via Getty Images In the longer term Transnistria will have to agree to be part of the carbon pricing scheme to keep selling to the EU said Novac If they want to export their goods to the EU they ll need to have their carbon reflected in their products she said Pozgai echoed that position Companies that would seek to maintain this trade relationship would clearly have to comply with the EU existent and future climate legislation and policies he said Last year over 60 percent of Transnistria s exports mainly iron and steel went to the EU particularly to Romania Poland Germany Slovenia and Italy Although Tiraspol is at odds with Chișinău the two entities are entwined Transnistrian businesses exporting to the EU including the Moldova Steel Works MMZ the enclave s third-largest taxpayer are dependent on the Moldovan government issuing environmental permits meaning Chişinău can and does influence the work dynamics of companies from Transnistria said Anatolii Dirun an assistant professor at the Tiraspol School of Political Science Moldova also benefits as Transnistria gets free Russian gas which allows it to supply around two-thirds of Moldova s electricity consumption The MMZ agreement is part of a package deal between Tiraspol and Chișinău in which Moldova issues the environmental permit and Tiraspol supplies electricity to the rest of the country Dirun said Transnistria s government did not respond to requests for comment High costs Setting up a carbon price in Moldova also risks being painfully expensive Novac is concerned about the spillover effects on the country s shaky economy something she communicated to",
+          "sentiment_analysis": {
+            "score": -0.25318893790245056,
+            "positive_prob": 0.04183173179626465,
+            "negative_prob": 0.2950206696987152,
+            "neutral_prob": 0.6631476283073425,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moscow doesn’t care who it starves",
+      "url": "https://www.politico.eu/article/russia-ukraine-war-moscow-black-sea/",
+      "scraped_at": "2025-11-14T15:29:43.014293",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "war In the first few months after Russia invaded Ukrainians feared Moscow would order an amphibious assault on its coastline to help seize Odesa and other ports aiming to link Russian-occupied parts of the Donbas with the breakaway statelet of Transnistria in Moldova denying Ukraine any access to the Black Sea But Ukraine managed to prevent this from happening last year firing off missiles that sunk the landing ship the Saratov as well as two others And in April 2022 it",
+          "sentiment_analysis": {
+            "score": -0.7886618636548519,
+            "positive_prob": 0.0447981096804142,
+            "negative_prob": 0.8334599733352661,
+            "neutral_prob": 0.12174193561077118,
+            "classification": "negative"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Peace in the Southern Caucasus will put an end to Russia’s hegemony in the region - and here’s why",
+      "url": "https://www.eureporter.co/world/karabakh/2023/07/29/peace-in-the-southern-caucasus-will-put-an-end-to-russias-hegemony-in-the-region-and-heres-why/",
+      "scraped_at": "2025-11-14T15:29:43.838996",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 2
+      },
+      "total_mentions": 2,
+      "contexts": [
+        {
+          "context": "You can unsubscribe at any time The Kremlin has been using frozen conflicts on the fringes of the Russian empire for decades thawing and refreezing them to suit its immediate objectives we ve seen enough of this tactic in Donbass Transnistria and South Ossetia In the same vein the conflict in Karabakh is Russia s key to the Southern Caucasus and indirectly to Europe That is why the US and the EU must join forces to broker a lasting peace in",
+          "sentiment_analysis": {
+            "score": 0.17486786469817162,
+            "positive_prob": 0.21365998685359955,
+            "negative_prob": 0.03879212215542793,
+            "neutral_prob": 0.7475479245185852,
+            "classification": "neutral"
+          }
+        },
+        {
+          "context": "only goes to show that the Kremlin is determined to destabilise the region despite the fact that the other two parties actually seek peace Putin is using the same playbook in Karabakh as he did in Ukraine South Ossetia and Transnistria before Russia s policy has led Armenian separatists in Karabakh to favour the indefinite stay of the Russian military contingent and a referendum on joining the Russian Federation This all sounds very familiar doesn t it You may wonder how",
+          "sentiment_analysis": {
+            "score": -0.013272367417812347,
+            "positive_prob": 0.07449020445346832,
+            "negative_prob": 0.08776257187128067,
+            "neutral_prob": 0.8377472758293152,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Russian schemes for instability in the Caucasus: Georgia and Karabakh",
+      "url": "https://www.eureporter.co/world/georgia/2023/03/12/russian-schemes-for-instability-in-the-caucasus-georgia-and-karabakh/",
+      "scraped_at": "2025-11-14T15:29:43.838996",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "republics some of which were promptly recognised by Russia and its allies offering them military protection by intervening in any armed conflicts these autonomous republics would be embroiled in Whether it be creating Abkhazia and South Ossetia in Georgia or Transnistria in parts of Moldova or the most infamous example the Donbass republics on Ukrainian territory The so-called Nagorno-Karabakh region known in the Azeri language as Karabakh is a UN-recognised Azerbaijani territory There is a small separatist enclave populated by ethnic",
+          "sentiment_analysis": {
+            "score": -0.15551284700632095,
+            "positive_prob": 0.02607996016740799,
+            "negative_prob": 0.18159280717372894,
+            "neutral_prob": 0.7923272848129272,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Moscow’s playbook in Karabakh\r\n",
+      "url": "https://www.eureporter.co/world/karabakh/2023/05/07/moscows-playbook-in-karabakh/",
+      "scraped_at": "2025-11-14T15:29:43.838996",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "including Armenia However it is a member of a group of unrecognised states that calls itself the Community for Democracy and Rights of Nations an organisation whose only other members are puppet states created by Russia South Ossetia Abkhazia and Transnistria Unsurprisingly all these territories recognise each other and have a joint vested interest in being inducted into the Eurasian Union through their close ties to Russia It is safe to assume that Artsakh will be no different and will seek",
+          "sentiment_analysis": {
+            "score": 0.1264383178204298,
+            "positive_prob": 0.13875025510787964,
+            "negative_prob": 0.012311937287449837,
+            "neutral_prob": 0.8489377498626709,
+            "classification": "neutral"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Europe’s leaders meet in Russia’s shadow",
+      "url": "https://www.politico.eu/article/closed-airspace-limited-overnights-moldova-hosts-europe-leaders-summit-european-political-community-russia-shadow/",
+      "scraped_at": "2025-11-14T15:29:43.838996",
+      "keyword_counts": {
+        "Trans-Dniester": 0,
+        "Transnistria": 1
+      },
+      "total_mentions": 1,
+      "contexts": [
+        {
+          "context": "sandwiched between the EU and Ukraine is a prime example The country has been trying to chart a path toward EU membership under pro-Western President Maia Sandu But it is also battling multiple Russian threats not only in the breakaway Transnistria region but also through a constant barrage of assaults on its democracy energy supply and communications Sandu even said Moldova had recently foiled a Russian-backed coup attempt That makes the summit location a signal that Moldova matters Moldovan Foreign Minister",
+          "sentiment_analysis": {
+            "score": -0.22522646188735962,
+            "positive_prob": 0.2881208062171936,
+            "negative_prob": 0.5133472681045532,
+            "neutral_prob": 0.19853194057941437,
+            "classification": "negative"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -62,7 +62,7 @@ def scrape_article(url):
         return None
 
 
-def save_to_json(data, filename='article.json'):
+def save_to_json(data, filename='jsons/article.json'):
     """
     Save article data to a JSON file
     """

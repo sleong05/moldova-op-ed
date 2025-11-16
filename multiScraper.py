@@ -58,7 +58,7 @@ def save_results(successful_articles, failed_urls):
     }
     
     try:
-        with open('scraped_articles.json', 'w', encoding='utf-8') as f:
+        with open('jsons/scraped_articles.json', 'w', encoding='utf-8') as f:
             json.dump(success_data, f, indent=2, ensure_ascii=False)
         print(f"✓ Saved {len(successful_articles)} articles to scraped_articles.json")
     except Exception as e:
@@ -72,7 +72,7 @@ def save_results(successful_articles, failed_urls):
     }
     
     try:
-        with open('failed_urls.json', 'w', encoding='utf-8') as f:
+        with open('jsons/failed_urls.json', 'w', encoding='utf-8') as f:
             json.dump(failed_data, f, indent=2, ensure_ascii=False)
         print(f"✓ Saved {len(failed_urls)} failed URLs to failed_urls.json")
     except Exception as e:

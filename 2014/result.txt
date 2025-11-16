@@ -1,0 +1,179 @@
+======================================================================
+SENTIMENT ANALYSIS WITH FINBERT
+======================================================================
+
+Loading parsed articles...
+
+Initializing FinBERT model...
+Loading FinBERT (financial news model)...
+✓ FinBERT loaded successfully
+
+Analyzing sentiment for 21 articles...
+
+[1/21] Processing: The country that doesn’t exist
+  Found 4 context(s)
+  Context 1/4:
+  Analyzing context (length: 249 words)...
+  Context 2/4:
+  Analyzing context (length: 232 words)...
+  Context 3/4:
+  Analyzing context (length: 412 words)...
+  Context 4/4:
+  Analyzing context (length: 103 words)...
+
+[2/21] Processing: Moldova's Trans-Dniester region pleads to join Russia
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 203 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[3/21] Processing: Dorotcaia: the Moldova village caught between Russia and Europe
+  Found 11 context(s)
+  Context 1/11:
+  Analyzing context (length: 65 words)...
+  Context 2/11:
+  Analyzing context (length: 114 words)...
+  Context 3/11:
+  Analyzing context (length: 194 words)...
+  Context 4/11:
+  Analyzing context (length: 81 words)...
+  Context 5/11:
+  Analyzing context (length: 81 words)...
+  Context 6/11:
+  Analyzing context (length: 156 words)...
+  Context 7/11:
+  Analyzing context (length: 81 words)...
+  Context 8/11:
+  Analyzing context (length: 81 words)...
+  Context 9/11:
+  Analyzing context (length: 142 words)...
+  Context 10/11:
+  Analyzing context (length: 145 words)...
+  Context 11/11:
+  Analyzing context (length: 139 words)...
+
+[4/21] Processing: If Transnistria is the next flashpoint between Putin and the west, how should Europe react?
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 280 words)...
+  Context 2/3:
+  Analyzing context (length: 81 words)...
+  Context 3/3:
+  Analyzing context (length: 73 words)...
+
+[5/21] Processing: Russia ready to annex Moldova region, Nato commander claims
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 116 words)...
+  Context 2/2:
+  Analyzing context (length: 116 words)...
+
+[6/21] Processing: Defiant Russia absorbs Crimea
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[7/21] Processing: Deny Moscow a new front in Bosnia
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[8/21] Processing: Overstepping the boundaries
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[9/21] Processing: Showing determination
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[10/21] Processing: A year of crisis and instability on the EU’s doorstep
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[11/21] Processing: Moldova election: Pro-EU parties edge pro-Russian rivals
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[12/21] Processing: The plight of Moldova's orphanage children
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 144 words)...
+
+[13/21] Processing: Moldova goes to the polls torn between Europe and Russia
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[14/21] Processing: Will Ukraine's neighbour Moldova be the next east-west Europe flashpoint?
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 336 words)...
+
+[15/21] Processing: Edginess and a reluctance to rattle Russia's cage in former Soviet republics
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[16/21] Processing: Russian troops may be massing to invade Ukraine, says White House
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 186 words)...
+
+[17/21] Processing: Ukraine: what will happen now?
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[18/21] Processing: Ukraine’s painful realities
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[19/21] Processing: Eastern Ukraine drifts away from Kyiv in controversial referendum
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[20/21] Processing: Ukraine official: Putin’s plans have failed
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[21/21] Processing: Moldova: EU Commission clarifies intentions about Transnistria
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 124 words)...
+  Context 2/3:
+  Analyzing context (length: 81 words)...
+  Context 3/3:
+  Analyzing context (length: 73 words)...
+
+✓ Saved sentiment analysis to jsons/sentiment_analysis.json
+
+======================================================================
+FINBERT SENTIMENT ANALYSIS SUMMARY
+======================================================================
+Total contexts analyzed: 41
+
+Classification Distribution:
+  Positive: 1 (2.4%)
+  Neutral:  29 (70.7%)
+  Negative: 11 (26.8%)
+
+Sentiment Scores:
+  Average score: -0.230
+  Score range: [-0.939, 0.880]
+  Standard deviation: 0.359
+
+Average Probabilities:
+  Positive: 0.091
+  Negative: 0.322
+  Neutral:  0.587
+======================================================================

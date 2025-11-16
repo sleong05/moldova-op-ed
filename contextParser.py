@@ -6,11 +6,11 @@ from datetime import datetime
 WORDS_BEFORE = 40
 WORDS_AFTER = 40
 KEYWORDS = [
-    'transnistria',
     'Trans-Dniester',
+    'Transnistria',
 ]
 
-def load_articles(filename='scraped_articles.json'):
+def load_articles(filename='json/scraped_articles.json'):
     """
     Load scraped articles from JSON file
     """
@@ -147,7 +147,7 @@ def parse_all_articles(articles, keywords, words_before, words_after):
     return parsed_articles
 
 
-def save_parsed_articles(parsed_articles, filename='parsed_articles.json'):
+def save_parsed_articles(parsed_articles, filename='jsons/parsed_articles.json'):
     """
     Save parsed articles to JSON file
     """
@@ -199,7 +199,7 @@ def main():
     Main function to parse articles for keywords
     """
     # Load articles
-    articles = load_articles('scraped_articles.json')
+    articles = load_articles('jsons/scraped_articles.json')
     
     if not articles:
         print("No articles found to parse")

@@ -1,0 +1,18 @@
+{
+  "total_failed": 3,
+  "scraped_at": "2025-11-14T15:29:44.276536",
+  "failed_urls": [
+    {
+      "url": "https://www.eureporter.co/world/karabakh/2023/07/29/peace-in-the-southern-caucasus-will-put-an-end-to-russias-hegemony-in-the-region-and-heres-why/",
+      "failed_at": "2025-11-14T15:29:25.579249"
+    },
+    {
+      "url": "https://www.eureporter.co/world/georgia/2023/03/12/russian-schemes-for-instability-in-the-caucasus-georgia-and-karabakh/",
+      "failed_at": "2025-11-14T15:29:25.784041"
+    },
+    {
+      "url": "https://www.eureporter.co/world/karabakh/2023/05/07/moscows-playbook-in-karabakh/",
+      "failed_at": "2025-11-14T15:29:25.992469"
+    }
+  ]
+}

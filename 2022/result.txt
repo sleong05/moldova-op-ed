@@ -1,0 +1,242 @@
+======================================================================
+SENTIMENT ANALYSIS WITH FINBERT
+======================================================================
+
+Loading parsed articles...
+
+Initializing FinBERT model...
+Loading FinBERT (financial news model)...
+✓ FinBERT loaded successfully
+
+Analyzing sentiment for 30 articles...
+
+[1/30] Processing: I am scared Putin will come': How tensions are rising on the border with Transnistria
+  Found 6 context(s)
+  Context 1/6:
+  Analyzing context (length: 82 words)...
+  Context 2/6:
+  Analyzing context (length: 260 words)...
+  Context 3/6:
+  Analyzing context (length: 81 words)...
+  Context 4/6:
+  Analyzing context (length: 96 words)...
+  Context 5/6:
+  Analyzing context (length: 124 words)...
+  Context 6/6:
+  Analyzing context (length: 81 words)...
+
+[2/30] Processing: Ukraine war: Blinken condemns 'barbaric' Russian strikes; new director at Zaporizhzhia nuclear plant
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[3/30] Processing: How an energy crisis is testing Moldova's mettle to turn away from Russia
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 127 words)...
+  Context 2/3:
+  Analyzing context (length: 81 words)...
+  Context 3/3:
+  Analyzing context (length: 81 words)...
+
+[4/30] Processing: Russia’s invasion of Ukraine spills over into Moldova
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 49 words)...
+
+[5/30] Processing: Energy crisis: Winter could be very difficult for Moldova, its PM tells Euronews
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 80 words)...
+
+[6/30] Processing: Ukraine war: Nuclear safety, Putin in Kaliningrad, and Russian tourist visas
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 159 words)...
+
+[7/30] Processing: Ukraine war: How has Russia's invasion changed Europe?
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[8/30] Processing: Transnistria separatists set their eyes on possible Russian unification
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 160 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[9/30] Processing: Ukraine war: President Zelenskyy fires spy chief and top prosecutor
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 47 words)...
+
+[10/30] Processing: Ukraine war: Accept our terms or brace for the worst, Putin tells Kyiv
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[11/30] Processing: Ukraine war: Five things you need to know about the conflict on Thursday
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[12/30] Processing: Euroviews. Don't wait for war in Moldova before giving a clear signal on EU membership prospects | View
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 135 words)...
+
+[13/30] Processing: Brussels backs Ukraine and Moldova as candidates for EU membership
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[14/30] Processing: U.S., Ukrainian officials weigh ‘high possibility’ of Putin invading Moldova
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[15/30] Processing: MoldovaMoldova - between EU accession and mounting regional tensions
+
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 444 words)...
+
+[16/30] Processing: Moldova is Russia’s next target
+
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 88 words)...
+  Context 2/2:
+  Analyzing context (length: 304 words)...
+
+[17/30] Processing: Western powers meet to pledge urgent support for Moldova as winter nears
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[18/30] Processing: Moldova fears new Russian push towards breakaway east next year
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 126 words)...
+  Context 2/2:
+  Analyzing context (length: 108 words)...
+
+[19/30] Processing: Moldova facing dark winter as energy crisis bites
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[20/30] Processing: Moldova can't rely only on neutral status, security aide says
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 81 words)...
+
+[21/30] Processing: ‘I don’t feel safe here’: Transnistria fears could spark Moldova exodus
+  Found 5 context(s)
+  Context 1/5:
+  Analyzing context (length: 65 words)...
+  Context 2/5:
+  Analyzing context (length: 99 words)...
+  Context 3/5:
+  Analyzing context (length: 102 words)...
+  Context 4/5:
+  Analyzing context (length: 81 words)...
+  Context 5/5:
+  Analyzing context (length: 140 words)...
+
+[22/30] Processing: Transnistria appeals to Russia for ‘protection’, reviving fears for Moldova breakaway region
+  Found 3 context(s)
+  Context 1/3:
+  Analyzing context (length: 160 words)...
+  Context 2/3:
+  Analyzing context (length: 156 words)...
+  Context 3/3:
+  Analyzing context (length: 81 words)...
+
+[23/30] Processing: Fears grow over Moldova breakaway region being drawn into Ukraine war
+  Found 5 context(s)
+  Context 1/5:
+  Analyzing context (length: 111 words)...
+  Context 2/5:
+  Analyzing context (length: 81 words)...
+  Context 3/5:
+  Analyzing context (length: 237 words)...
+  Context 4/5:
+  Analyzing context (length: 189 words)...
+  Context 5/5:
+  Analyzing context (length: 110 words)...
+
+[24/30] Processing: Russian commander suggests plan is for permanent occupation of south Ukraine
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 151 words)...
+
+[25/30] Processing: Russia’s war in Ukraine threatens to spill over in dangerous new phase
+  Found 4 context(s)
+  Context 1/4:
+  Analyzing context (length: 207 words)...
+  Context 2/4:
+  Analyzing context (length: 81 words)...
+  Context 3/4:
+  Analyzing context (length: 81 words)...
+  Context 4/4:
+  Analyzing context (length: 66 words)...
+
+[26/30] Processing: Moldova facing ‘dangerous moment’ amid fears it could be drawn into Ukraine war
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 314 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+[27/30] Processing: Russia-Ukraine war: what we know on day 62 of the invasion
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 130 words)...
+
+[28/30] Processing: Russia warns of an immediate ‘proportional response’ if Britain continues its ‘direct provocation’ of Ukraine – as it happened
+  Found 1 context(s)
+  Context 1/1:
+  Analyzing context (length: 150 words)...
+
+[29/30] Processing: Russian forces capture villages in push into eastern Ukraine
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 54 words)...
+  Context 2/2:
+  Analyzing context (length: 240 words)...
+
+[30/30] Processing: ‘We’ll fight to the end.’ Ukraine defiant in face of  Vladimir Putin’s phoney war
+  Found 2 context(s)
+  Context 1/2:
+  Analyzing context (length: 81 words)...
+  Context 2/2:
+  Analyzing context (length: 81 words)...
+
+✓ Saved sentiment analysis to jsons/sentiment_analysis.json
+
+======================================================================
+FINBERT SENTIMENT ANALYSIS SUMMARY
+======================================================================
+Total contexts analyzed: 58
+
+Classification Distribution:
+  Positive: 3 (5.2%)
+  Neutral:  20 (34.5%)
+  Negative: 35 (60.3%)
+
+Sentiment Scores:
+  Average score: -0.416
+  Score range: [-0.951, 0.776]
+  Standard deviation: 0.413
+
+Average Probabilities:
+  Positive: 0.115
+  Negative: 0.531
+  Neutral:  0.355
+======================================================================

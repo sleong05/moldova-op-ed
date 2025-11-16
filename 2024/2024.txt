@@ -1,0 +1,50 @@
+https://www.euractiv.com/news/what-moldovas-twin-vote-means-for-its-eu-future-and-russias-grip/
+https://www.politico.eu/article/moldova-eye-energy-lever-topple-kremlin-puppet-regime-transnistria/
+https://www.politico.eu/article/moldovan-general-accused-of-treason-over-russian-spy-allegations/
+https://www.eureporter.co/world/2024/08/27/who-is-afraid-of-the-accession-of-the-republic-of-moldova-to-the-eu-fake-news-that-waves-the-scarecrow-of-separatism-in-transnistria-and-gagauzia/
+https://www.eureporter.co/world/moldova/2024/05/14/shifting-energy-dynamics-moldovas-drive-towards-independence-amidst-russias-influence-2/
+https://www.eureporter.co/world/moldova/2024/08/21/moldovas-energy-crisis-how-ukraines-offensive-and-binzari-questionable-decisions-are-pushing-chisinau-to-the-edge/
+https://www.eureporter.co/world/republic-of-moldova/2024/10/20/moldovan-diaspora-in-eu-shows-little-interest-in-crucial-presidential-election-and-referendum/
+https://www.eureporter.co/environment/2024/10/01/cop29-azerbaijan-supports-global-peace/
+https://www.euractiv.com/news/moldovan-president-warns-of-harsh-winter-in-inauguration-speech/
+https://www.euractiv.com/news/russia-says-it-will-protect-its-citizens-in-moldovas-transdniestria/
+https://www.euractiv.com/news/slovakia-leads-effort-for-continued-ukraine-gas-transit-as-eu-stays-out-of-talks/
+https://www.euractiv.com/news/moldova-declares-state-of-emergency-as-risk-of-russian-gas-cutoff-looms/
+https://www.euractiv.com/news/moldovan-separatists-complain-to-eu-about-central-government/
+https://www.euractiv.com/news/us-sanctions-pro-russia-governor-of-moldovas-gagauzia-region/
+https://www.euractiv.com/news/blinken-vows-support-for-moldova-against-russia-bullying/
+http://euractiv.com/news/moldovan-parliament-backs-bid-to-join-eu-but-divisions-remain/
+https://www.euractiv.com/news/moldova-expels-russian-diplomat-over-transnistria-polling-stations/
+https://www.euractiv.com/news/moldovan-president-launches-campaign-to-promote-eu-referendum/
+https://www.euractiv.com/news/moldova-says-russia-illegally-printed-election-ballots-in-transnistria/
+https://www.euractiv.com/news/moldova-spy-chief-warns-on-new-destabilisation-attempts-by-russia/
+https://www.euractiv.com/news/moldova-dismisses-transnistrias-request-for-russian-help/
+https://www.euractiv.com/news/moldova-says-customs-talks-with-transnistria-separatists-difficult/
+https://www.theguardian.com/world/2024/feb/29/transnistria-moldova-breakaway-region-russia-protection-appeal
+https://www.theguardian.com/world/2024/oct/12/moldova-fears-kremlin-fixing-eu-referendum-russia
+https://www.theguardian.com/world/2024/nov/01/russia-wars-georgia-moldova-europe-voters-closer-ties-moscow
+https://www.theguardian.com/world/2024/feb/29/russia-ukraine-war-at-a-glance-what-we-know-on-day-736
+https://www.theguardian.com/commentisfree/2024/nov/05/moldova-russia-election-meddling-democracy
+https://www.euronews.com/2024/12/28/russias-gazprom-says-it-will-stop-supplying-moldova-with-gas-next-week
+https://www.euronews.com/my-europe/2024/12/24/maia-sandu-returns-office-for-second-term-as-president-of-moldova
+https://www.euronews.com/business/2024/12/13/moldova-declares-an-energy-emergency-over-fears-of-russian-gas-cut-off
+https://www.euronews.com/2024/11/21/in-moldovas-path-towards-the-eu-political-prisoners-in-transnistria-face-challenges
+https://www.politico.eu/article/central-european-energy-firms-push-for-extension-on-russian-gas-transit-deal/?reg-wall=true
+======================================================================
+Total contexts analyzed: 40
+
+Classification Distribution:
+  Positive: 4 (10.0%)
+  Neutral:  7 (17.5%)
+  Negative: 29 (72.5%)
+
+Sentiment Scores:
+  Average score: -0.533
+  Score range: [-0.942, 0.858]
+  Standard deviation: 0.475
+
+Average Probabilities:
+  Positive: 0.120
+  Negative: 0.654
+  Neutral:  0.226
+======================================================================
