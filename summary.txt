@@ -1,0 +1,86 @@
+====================================================================== 2014
+Total contexts analyzed: 41
+
+Classification Distribution:
+  Positive: 1 (2.4%)
+  Neutral:  29 (70.7%)
+  Negative: 11 (26.8%)
+
+Sentiment Scores:
+  Average score: -0.230
+  Score range: [-0.939, 0.880]
+  Standard deviation: 0.359
+
+Average Probabilities:
+  Positive: 0.091
+  Negative: 0.322
+  Neutral:  0.587
+====================================================================== 2022
+Total contexts analyzed: 58
+
+Classification Distribution:
+  Positive: 3 (5.2%)
+  Neutral:  20 (34.5%)
+  Negative: 35 (60.3%)
+
+Sentiment Scores:
+  Average score: -0.416
+  Score range: [-0.951, 0.776]
+  Standard deviation: 0.413
+
+Average Probabilities:
+  Positive: 0.115
+  Negative: 0.531
+  Neutral:  0.355
+====================================================================== 2023
+Total contexts analyzed: 44
+
+Classification Distribution:
+  Positive: 2 (4.5%)
+  Neutral:  21 (47.7%)
+  Negative: 21 (47.7%)
+
+Sentiment Scores:
+  Average score: -0.337
+  Score range: [-0.923, 0.497]
+  Standard deviation: 0.389
+
+Average Probabilities:
+  Positive: 0.111
+  Negative: 0.448
+  Neutral:  0.441
+====================================================================== 2024
+Total contexts analyzed: 74
+
+Classification Distribution:
+  Positive: 8 (10.8%)
+  Neutral:  24 (32.4%)
+  Negative: 42 (56.8%)
+
+Sentiment Scores:
+  Average score: -0.375
+  Score range: [-0.942, 0.886]
+  Standard deviation: 0.534
+
+Average Probabilities:
+  Positive: 0.161
+  Negative: 0.536
+  Neutral:  0.303
+====================================================================== 2025
+Total contexts analyzed: 71
+
+Classification Distribution:
+  Positive: 6 (8.5%)
+  Neutral:  23 (32.4%)
+  Negative: 42 (59.2%)
+
+Sentiment Scores:
+  Average score: -0.421
+  Score range: [-0.942, 0.886]
+  Standard deviation: 0.493
+
+Average Probabilities:
+  Positive: 0.136
+  Negative: 0.557
+  Neutral:  0.307
+======================================================================
