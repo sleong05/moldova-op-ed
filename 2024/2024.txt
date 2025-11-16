@@ -30,21 +30,17 @@ https://www.euronews.com/my-europe/2024/12/24/maia-sandu-returns-office-for-seco
 https://www.euronews.com/business/2024/12/13/moldova-declares-an-energy-emergency-over-fears-of-russian-gas-cut-off
 https://www.euronews.com/2024/11/21/in-moldovas-path-towards-the-eu-political-prisoners-in-transnistria-face-challenges
 https://www.politico.eu/article/central-european-energy-firms-push-for-extension-on-russian-gas-transit-deal/?reg-wall=true
-======================================================================
-Total contexts analyzed: 40
-
-Classification Distribution:
-  Positive: 4 (10.0%)
-  Neutral:  7 (17.5%)
-  Negative: 29 (72.5%)
-
-Sentiment Scores:
-  Average score: -0.533
-  Score range: [-0.942, 0.858]
-  Standard deviation: 0.475
-
-Average Probabilities:
-  Positive: 0.120
-  Negative: 0.654
-  Neutral:  0.226
-======================================================================
+https://www.politico.eu/article/united-states-sanctions-serbia-oil-company-russia-ownership-gazprom/
+https://www.politico.eu/article/moldova-pro-eu-president-maia-sandu-central-election-commission-world-bank-elections-moscow/
+https://www.politico.eu/article/moldovans-head-to-polls-in-major-test-for-eu-path/
+https://www.politico.eu/article/russia-moscow-belgium-brussels-ukraine-war-defense-military-east/
+https://www.politico.eu/article/movolda-europe-future-polls-ukraine-rusiia/
+https://www.politico.eu/article/moldova-eu-referendum-vote-russian-interference-enlargement-accession/
+https://www.politico.eu/article/russia-plot-meddle-moldova-election-uncovered-say-western-allies-maia-sandu-kremlin/
+https://www.politico.eu/article/moldova-fights-free-from-russia-ai-power-disinformation-machine-maia-sandu/
+https://www.politico.eu/article/moldova-allow-billionaire-ilan-shor-sor-pro-kremlin-party-sor-field-candidate-election/
+https://www.politico.eu/article/we-know-were-not-alone-facing-putins-threats-moldova-turns-to-france/
+https://www.politico.eu/article/we-know-were-not-alone-facing-putins-threats-moldova-turns-to-france/
+https://www.politico.eu/article/vladimir-putin-russia-moldova-gagauzia-evghenia-gutul/
+https://www.politico.eu/article/moldova-russia-transnistria-mihail-popso-vladimir-putin-ukraine-war/
+https://www.politico.eu/article/breakaway-moldovan-region-transnistria-invites-russia-invade/

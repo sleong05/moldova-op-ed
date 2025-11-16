@@ -1,18 +1,30 @@
 {
-  "total_failed": 3,
-  "scraped_at": "2025-11-14T15:29:44.276536",
+  "total_failed": 6,
+  "scraped_at": "2025-11-16T03:29:35.199964",
   "failed_urls": [
     {
-      "url": "https://www.eureporter.co/world/karabakh/2023/07/29/peace-in-the-southern-caucasus-will-put-an-end-to-russias-hegemony-in-the-region-and-heres-why/",
-      "failed_at": "2025-11-14T15:29:25.579249"
+      "url": "https://www.eureporter.co/world/2024/08/27/who-is-afraid-of-the-accession-of-the-republic-of-moldova-to-the-eu-fake-news-that-waves-the-scarecrow-of-separatism-in-transnistria-and-gagauzia/",
+      "failed_at": "2025-11-16T03:29:08.385057"
     },
     {
-      "url": "https://www.eureporter.co/world/georgia/2023/03/12/russian-schemes-for-instability-in-the-caucasus-georgia-and-karabakh/",
-      "failed_at": "2025-11-14T15:29:25.784041"
+      "url": "https://www.eureporter.co/world/moldova/2024/05/14/shifting-energy-dynamics-moldovas-drive-towards-independence-amidst-russias-influence-2/",
+      "failed_at": "2025-11-16T03:29:08.476261"
     },
     {
-      "url": "https://www.eureporter.co/world/karabakh/2023/05/07/moscows-playbook-in-karabakh/",
-      "failed_at": "2025-11-14T15:29:25.992469"
+      "url": "https://www.eureporter.co/world/moldova/2024/08/21/moldovas-energy-crisis-how-ukraines-offensive-and-binzari-questionable-decisions-are-pushing-chisinau-to-the-edge/",
+      "failed_at": "2025-11-16T03:29:08.571499"
+    },
+    {
+      "url": "https://www.eureporter.co/world/republic-of-moldova/2024/10/20/moldovan-diaspora-in-eu-shows-little-interest-in-crucial-presidential-election-and-referendum/",
+      "failed_at": "2025-11-16T03:29:08.655228"
+    },
+    {
+      "url": "https://www.eureporter.co/environment/2024/10/01/cop29-azerbaijan-supports-global-peace/",
+      "failed_at": "2025-11-16T03:29:08.749196"
+    },
+    {
+      "url": "https://www.politico.eu/article/central-european-energy-firms-push-for-extension-on-russian-gas-transit-deal/?reg-wall=true",
+      "failed_at": "2025-11-16T03:29:25.525839"
     }
   ]
 }
